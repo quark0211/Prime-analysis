@@ -13,23 +13,14 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
      - **5-cluster setting**: includes files for `splice`, `unsplice`, `beta`, `celltype`, and ground-truth parameters `theta`.
      - **10-cluster setting**: includes files for `splice`, `unsplice`, `beta`, `celltype`, and ground-truth parameters `theta`.
      These datasets are used to evaluate performance and parameter recovery under controlled conditions.
-   - **real_data/**: real datasets for **Fig. 3**.
-     Real datasets used in **Fig. 3**. This folder contains files associated with five datasets:`cl3`, `cl5`, `Mopsc`, `humanskin`, and `mouselung`.For each dataset, we provide two types of inputs:
-      - **Unfiltered `.loom` files** (`cl3_1137all.loom`, `cl5_1193all.loom`, `Human_skin_all.loom`, `mouse_all.loom`, `allen_b08_1948all.loom`):  These contain the complete count matrices and are used to estimate the **extrinsic-                noise/cell-volume factor**.
-      - **HVG-filtered count matrices in `.csv` format**:  
-     These files contain **spliced** and **unspliced** count matrices restricted to **highly variable genes (HVGs)**, and are used as the primary inputs for PRIME clustering and downstream evaluation.
-     Typical filenames include:
-     - `*_hvg_spliced.csv`, `*_hvg_unspliced.csv` (HVG-filtered spliced/unspliced)
-     - `spliced_expression_matrix_*.csv`, `unspliced_expression_matrix_*.csv` (HVG-filtered spliced/unspliced, dataset-specific naming)
-     - `subclass_labels_*.csv` (ground-truth labels used for evaluation, e.g., ARI/NMI)
-
-    In summary, **`.loom` files provide the full data required for estimating \( \beta \)**, whereas the **HVG-filtered `.csv` matrices are used for PRIME analysis** (clustering and metric reporting).
-     - **mouselung**: input files for the mouse lung dataset.
+   - **real_data/**: real datasets for **Fig. 3**, this folder contains files associated with five datasets:`cl3`, `cl5`, `Mopsc`, `humanskin`, and `mouselung`.For each dataset, we provide two types of inputs:
+      - **Unfiltered `.loom` files** (`cl3_1137all.loom`, `cl5_1193all.loom`, `Human_skin_all.loom`, `mouse_all.loom`, `allen_b08_1948all.loom`):  These contain the complete spliced and unspliced count matrices and are used to estimate the cell-volume factor.
+      - **HVG-filtered `.csv` count matrices**:  
+     These files contain spliced and unspliced count matrices restricted to highly variable genes (HVGs) selected by `Preprocess_data.py` and serve as the primary inputs for PRIME clustering.
    - **analysis/**: datasets for parameter-space marker analysis (**Figs. 5–6**).
      - **brca**: dataset corresponding to **Fig. 5** (BRCA analysis).
      - **ctrl** and **CTCL**: datasets corresponding to **Fig. 6**.
-     - These datasets are used for marker gene analysis in the inferred parameter space, including volcano-plot style visualization of parameter-based markers.
-     - **Note:** extremely large intermediate or posterior tables may be excluded from Git tracking due to file-size limits and should be generated locally by running the notebooks.
+     - These datasets are used for marker gene analysis in the inferred parameter space, including volcano-plot style visualization of parameter-based markers. Note extremely large intermediate or posterior tables may be excluded from Git tracking due to file-size limits and should be generated locally by running the notebooks.
 
 2. **run_prime/** contains runnable Jupyter notebooks (`.ipynb`) that reproduce the experiments.
    - **cl3.ipynb**: runs `prime_cluster` on the **cl3** dataset and reports clustering metrics (**ARI**, **NMI**).
@@ -42,15 +33,11 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
      - runs `prime_infer_to_csv` for genome-wide Bayesian parameter inference;
      - performs parameter-space marker analysis and visualizes results (including marker volcano plots).
 
-3. **(Dependency) Prime.jl** is required to execute the notebooks.
-   - Install PRIME’s Julia package directly from GitHub:
-     - `using Pkg`
-     - `Pkg.develop(PackageSpec(url="https://github.com/Li-shiyue/Prime.jl.git"))`
-     - `using Prime`
+3. **Dependency Prime.jl** is required to execute the notebooks.
+   - Install PRIME’s Julia package directly from GitHub：https://github.com/Li-shiyue/Prime.jl
    - The notebooks in `run_prime/` assume the above installation is available in the Julia environment used by Jupyter.
 
 ---
-
 ## Repository Structure
 
 ```text
