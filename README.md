@@ -26,6 +26,7 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
      - These datasets are used for marker gene analysis in the inferred parameter space, including volcano-plot style visualization of parameter-based markers. Note extremely large intermediate or posterior tables may be excluded from Git tracking due to file-size limits and should be generated locally by running the notebooks.
 
 2. **run_prime/** contains runnable Jupyter notebooks (`.ipynb`) that reproduce the experiments.
+   - **Preprocess_data.py** implements the HVG selection procedure and generates the gene-index files used for clustering 
    - **cl3.ipynb**: runs `prime_cluster` on the **cl3** dataset and reports clustering metrics (**ARI**, **NMI**).
    - **cl5.ipynb**: runs `prime_cluster` on the **cl5** dataset and reports (**ARI**, **NMI**).
    - **Mopsc.ipynb**: runs `prime_cluster` on **Mopsc** and reports (**ARI**, **NMI**).
@@ -36,7 +37,7 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
      - runs `prime_infer_to_csv` for genome-wide Bayesian parameter inference;
      - performs parameter-space marker analysis and visualizes results (including marker volcano plots).
 
-3. **Dependency Prime.jl** is required to execute the notebooks.
+4. **Dependency Prime.jl** is required to execute the notebooks.
    - Install PRIME’s Julia package directly from GitHub：https://github.com/Li-shiyue/Prime.jl
    - The notebooks in `run_prime/` assume the above installation is available in the Julia environment used by Jupyter.
 
