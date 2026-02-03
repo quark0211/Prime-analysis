@@ -6,7 +6,7 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
 
 ---
 
-## Workflow
+## Repository Structure
 
 1. **dataset/** contains all datasets used in the manuscript, organized into three subfolders.
    - **synthetic/**: simulation datasets for **Fig. 2**. These datasets are used to evaluate performance and parameter recovery under controlled conditions.
