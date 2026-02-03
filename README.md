@@ -12,12 +12,11 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
    - **synthetic/**: simulation datasets for **Fig. 2**.
      - **5-cluster setting**: includes files for `splice`, `unsplice`, `beta`, `celltype`, and ground-truth parameters `theta`.
      - **10-cluster setting**: includes files for `splice`, `unsplice`, `beta`, `celltype`, and ground-truth parameters `theta`.
-     - These datasets are used to evaluate performance and parameter recovery under controlled conditions.
+     These datasets are used to evaluate performance and parameter recovery under controlled conditions.
    - **real_data/**: real datasets for **Fig. 3**.
-     Real datasets used in **Fig. 3**. This folder contains files associated with five datasets:`cl3`, `cl5`, `Mopsc`, `humanskin`, and `mouselung`.
-      **File roles and conventions.** For each dataset, we provide two types of inputs:
-      - **Full (unfiltered) `.loom` files** (e.g., `cl3_1137all.loom`, `cl5_1193all.loom`, `Human_skin_all.loom`, `mouse_all.loom`, `allen_b08_1948all.loom`):  
-     These contain the complete count matrices and are used to estimate the **extrinsic-noise / cell-volume factor** \( \beta \).
+     Real datasets used in **Fig. 3**. This folder contains files associated with five datasets:`cl3`, `cl5`, `Mopsc`, `humanskin`, and `mouselung`.For each dataset, we provide two types of inputs:
+      - **Unfiltered `.loom` files** (e.g., `cl3_1137all.loom`, `cl5_1193all.loom`, `Human_skin_all.loom`, `mouse_all.loom`, `allen_b08_1948all.loom`):  
+      These contain the complete count matrices and are used to estimate the **extrinsic-noise / cell-volume factor** \( \beta \).
       - **HVG-filtered count matrices in `.csv` format**:  
      These files contain **spliced** and **unspliced** count matrices restricted to **highly variable genes (HVGs)**, and are used as the primary inputs for PRIME clustering and downstream evaluation.
      Typical filenames include:
@@ -25,7 +24,7 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
      - `spliced_expression_matrix_*.csv`, `unspliced_expression_matrix_*.csv` (HVG-filtered spliced/unspliced, dataset-specific naming)
      - `subclass_labels_*.csv` (ground-truth labels used for evaluation, e.g., ARI/NMI)
 
-In summary, **`.loom` files provide the full data required for estimating \( \beta \)**, whereas the **HVG-filtered `.csv` matrices are used for PRIME analysis** (clustering and metric reporting).
+    In summary, **`.loom` files provide the full data required for estimating \( \beta \)**, whereas the **HVG-filtered `.csv` matrices are used for PRIME analysis** (clustering and metric reporting).
      - **mouselung**: input files for the mouse lung dataset.
    - **analysis/**: datasets for parameter-space marker analysis (**Figs. 5–6**).
      - **brca**: dataset corresponding to **Fig. 5** (BRCA analysis).
