@@ -16,11 +16,11 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
       - **Unfiltered `.loom` files** (`cl3_1137all.loom`, `cl5_1193all.loom`, `Human_skin_all.loom`, `mouse_all.loom`, `allen_b08_1948all.loom`):  These contain the complete spliced and unspliced count matrices and are used to estimate the cell-volume factor.
       - **HVG-filtered `.csv` count matrices**:  
      These files contain spliced and unspliced count matrices restricted to highly variable genes (HVGs) selected by `Preprocess_data.py` and serve as the primary inputs for PRIME clustering.
-   - **analysis/**: datasets for parameter-space marker analysis (**Figs. 5–6**).
-      - **BRCA (Fig. 5)**:
+   - **analysis/**: datasets for parameter-space marker analysis for **Figs. 5–6** .
+      - **BRCA for Fig. 5**:
          - `processed_brca1_raw.loom`: the raw BRCA `.loom` file containing both spliced and unspliced count matrices.
          - `brca_filtered_highly_variable.csv`: HVG gene indices selected by `Preprocess_data.py`, used as the clustering feature set.
-     - **Ctrl/CTCL (Fig. 6)**:
+     - **Ctrl/CTCL for Fig. 6**:
          - `CTCL_Filter.loom`: a QC-filtered `.loom` file in which **Ctrl** and **CTCL** cells are merged into a single dataset.
          - `ctrl-hvg.csv`: HVG gene indices selected by `Preprocess_data.py`, used as the clustering feature set.
      - These datasets are used for marker gene analysis in the inferred parameter space, including volcano-plot style visualization of parameter-based markers. Note extremely large intermediate or posterior tables may be excluded from Git tracking due to file-size limits and should be generated locally by running the notebooks.
