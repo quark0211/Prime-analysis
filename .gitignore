@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# editors
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large analysis output (do not track)
+dataset/analysis/brca_posterior.csv

@@ -1,0 +1,3078 @@
+,0
+0,Macrophages/DC
+1,Macrophages/DC
+2,Fibroblasts
+3,Melanocytes
+4,Fibroblasts
+5,Endothelial Cells
+6,Fibroblasts
+7,Fibroblasts
+8,Fibroblasts
+9,Fibroblasts
+10,Fibroblasts
+11,Fibroblasts
+12,Macrophages/DC
+13,Fibroblasts
+14,Endothelial Cells
+15,Fibroblasts
+16,Suprabasal Keratinocytes
+17,Fibroblasts
+18,Fibroblasts
+19,Fibroblasts
+20,Suprabasal Keratinocytes
+21,Macrophages/DC
+22,Fibroblasts
+23,Endothelial Cells
+24,Basal Keratinocytes
+25,Pericytes
+26,Endothelial Cells
+27,Fibroblasts
+28,Fibroblasts
+29,Endothelial Cells
+30,Fibroblasts
+31,Fibroblasts
+32,Smooth Muscle
+33,Fibroblasts
+34,Smooth Muscle
+35,Fibroblasts
+36,Fibroblasts
+37,Fibroblasts
+38,Pericytes
+39,Fibroblasts
+40,Smooth Muscle
+41,Basal Keratinocytes
+42,Smooth Muscle
+43,Fibroblasts
+44,Suprabasal Keratinocytes
+45,Fibroblasts
+46,Basal Keratinocytes
+47,Suprabasal Keratinocytes
+48,Suprabasal Keratinocytes
+49,Fibroblasts
+50,Fibroblasts
+51,Fibroblasts
+52,Endothelial Cells
+53,Suprabasal Keratinocytes
+54,Fibroblasts
+55,Fibroblasts
+56,Smooth Muscle
+57,Fibroblasts
+58,Basal Keratinocytes
+59,Fibroblasts
+60,Fibroblasts
+61,Fibroblasts
+62,Fibroblasts
+63,Fibroblasts
+64,Endothelial Cells
+65,Fibroblasts
+66,Fibroblasts
+67,Fibroblasts
+68,Endothelial Cells
+69,Endothelial Cells
+70,Pericytes
+71,Smooth Muscle
+72,Endothelial Cells
+73,Fibroblasts
+74,Fibroblasts
+75,Macrophages/DC
+76,Fibroblasts
+77,Basal Keratinocytes
+78,Fibroblasts
+79,Endothelial Cells
+80,Suprabasal Keratinocytes
+81,Fibroblasts
+82,Basal Keratinocytes
+83,Macrophages/DC
+84,Suprabasal Keratinocytes
+85,Fibroblasts
+86,Endothelial Cells
+87,Smooth Muscle
+88,Basal Keratinocytes
+89,Fibroblasts
+90,Basal Keratinocytes
+91,Macrophages/DC
+92,Endothelial Cells
+93,Fibroblasts
+94,Endothelial Cells
+95,Macrophages/DC
+96,Fibroblasts
+97,Fibroblasts
+98,Fibroblasts
+99,Endothelial Cells
+100,Fibroblasts
+101,Fibroblasts
+102,Fibroblasts
+103,Fibroblasts
+104,Pericytes
+105,Fibroblasts
+106,Endothelial Cells
+107,Suprabasal Keratinocytes
+108,Suprabasal Keratinocytes
+109,Endothelial Cells
+110,Pericytes
+111,Smooth Muscle
+112,Suprabasal Keratinocytes
+113,Basal Keratinocytes
+114,Pericytes
+115,Basal Keratinocytes
+116,Fibroblasts
+117,Fibroblasts
+118,Fibroblasts
+119,Fibroblasts
+120,Fibroblasts
+121,Endothelial Cells
+122,Fibroblasts
+123,Endothelial Cells
+124,Fibroblasts
+125,Fibroblasts
+126,Suprabasal Keratinocytes
+127,Endothelial Cells
+128,Suprabasal Keratinocytes
+129,Suprabasal Keratinocytes
+130,Endothelial Cells
+131,Fibroblasts
+132,Fibroblasts
+133,Endothelial Cells
+134,Basal Keratinocytes
+135,Basal Keratinocytes
+136,Smooth Muscle
+137,Fibroblasts
+138,Fibroblasts
+139,Smooth Muscle
+140,Fibroblasts
+141,Fibroblasts
+142,Macrophages/DC
+143,Fibroblasts
+144,Fibroblasts
+145,Fibroblasts
+146,Fibroblasts
+147,Endothelial Cells
+148,Fibroblasts
+149,Basal Keratinocytes
+150,Endothelial Cells
+151,Macrophages/DC
+152,Fibroblasts
+153,Fibroblasts
+154,Endothelial Cells
+155,Fibroblasts
+156,Fibroblasts
+157,Fibroblasts
+158,Fibroblasts
+159,Suprabasal Keratinocytes
+160,Fibroblasts
+161,Pericytes
+162,Fibroblasts
+163,Endothelial Cells
+164,Fibroblasts
+165,Macrophages/DC
+166,Fibroblasts
+167,Fibroblasts
+168,Fibroblasts
+169,Endothelial Cells
+170,Fibroblasts
+171,Endothelial Cells
+172,Fibroblasts
+173,Endothelial Cells
+174,Endothelial Cells
+175,Fibroblasts
+176,Suprabasal Keratinocytes
+177,Fibroblasts
+178,Basal Keratinocytes
+179,Endothelial Cells
+180,Fibroblasts
+181,Fibroblasts
+182,Fibroblasts
+183,Fibroblasts
+184,Macrophages/DC
+185,Melanocytes
+186,Fibroblasts
+187,Smooth Muscle
+188,Suprabasal Keratinocytes
+189,Fibroblasts
+190,Fibroblasts
+191,Fibroblasts
+192,Fibroblasts
+193,Fibroblasts
+194,Fibroblasts
+195,Smooth Muscle
+196,Fibroblasts
+197,Fibroblasts
+198,Basal Keratinocytes
+199,Fibroblasts
+200,Fibroblasts
+201,Basal Keratinocytes
+202,Fibroblasts
+203,Fibroblasts
+204,Endothelial Cells
+205,Suprabasal Keratinocytes
+206,Suprabasal Keratinocytes
+207,Suprabasal Keratinocytes
+208,Endothelial Cells
+209,Fibroblasts
+210,Basal Keratinocytes
+211,Fibroblasts
+212,Fibroblasts
+213,Macrophages/DC
+214,Melanocytes
+215,Endothelial Cells
+216,Suprabasal Keratinocytes
+217,Suprabasal Keratinocytes
+218,Endothelial Cells
+219,Pericytes
+220,Endothelial Cells
+221,Fibroblasts
+222,Endothelial Cells
+223,Fibroblasts
+224,Suprabasal Keratinocytes
+225,Pericytes
+226,Fibroblasts
+227,Suprabasal Keratinocytes
+228,Fibroblasts
+229,Endothelial Cells
+230,Fibroblasts
+231,Endothelial Cells
+232,Fibroblasts
+233,Fibroblasts
+234,Fibroblasts
+235,Macrophages/DC
+236,Endothelial Cells
+237,Fibroblasts
+238,Macrophages/DC
+239,Fibroblasts
+240,Fibroblasts
+241,Fibroblasts
+242,Fibroblasts
+243,Fibroblasts
+244,Fibroblasts
+245,Fibroblasts
+246,Fibroblasts
+247,Suprabasal Keratinocytes
+248,Endothelial Cells
+249,Suprabasal Keratinocytes
+250,Fibroblasts
+251,Fibroblasts
+252,Fibroblasts
+253,Fibroblasts
+254,Basal Keratinocytes
+255,Basal Keratinocytes
+256,Fibroblasts
+257,Suprabasal Keratinocytes
+258,Basal Keratinocytes
+259,Pericytes
+260,Fibroblasts
+261,Fibroblasts
+262,Endothelial Cells
+263,Fibroblasts
+264,Fibroblasts
+265,Endothelial Cells
+266,Basal Keratinocytes
+267,Fibroblasts
+268,Fibroblasts
+269,Fibroblasts
+270,Macrophages/DC
+271,Fibroblasts
+272,Suprabasal Keratinocytes
+273,Fibroblasts
+274,Smooth Muscle
+275,Fibroblasts
+276,Macrophages/DC
+277,Macrophages/DC
+278,Suprabasal Keratinocytes
+279,Fibroblasts
+280,Fibroblasts
+281,Fibroblasts
+282,Endothelial Cells
+283,Fibroblasts
+284,Fibroblasts
+285,Pericytes
+286,Suprabasal Keratinocytes
+287,Pericytes
+288,Fibroblasts
+289,Endothelial Cells
+290,Fibroblasts
+291,Fibroblasts
+292,Fibroblasts
+293,Endothelial Cells
+294,Endothelial Cells
+295,Fibroblasts
+296,Endothelial Cells
+297,Fibroblasts
+298,Endothelial Cells
+299,Endothelial Cells
+300,Fibroblasts
+301,Basal Keratinocytes
+302,Fibroblasts
+303,Fibroblasts
+304,Fibroblasts
+305,Fibroblasts
+306,Fibroblasts
+307,Pericytes
+308,Macrophages/DC
+309,Fibroblasts
+310,Basal Keratinocytes
+311,Fibroblasts
+312,Suprabasal Keratinocytes
+313,Fibroblasts
+314,Macrophages/DC
+315,Endothelial Cells
+316,Basal Keratinocytes
+317,Endothelial Cells
+318,Fibroblasts
+319,Fibroblasts
+320,Fibroblasts
+321,Fibroblasts
+322,Macrophages/DC
+323,Fibroblasts
+324,Melanocytes
+325,Fibroblasts
+326,Suprabasal Keratinocytes
+327,Pericytes
+328,Fibroblasts
+329,Fibroblasts
+330,Fibroblasts
+331,Endothelial Cells
+332,Melanocytes
+333,Fibroblasts
+334,Fibroblasts
+335,Basal Keratinocytes
+336,Suprabasal Keratinocytes
+337,Fibroblasts
+338,Fibroblasts
+339,Smooth Muscle
+340,Fibroblasts
+341,Smooth Muscle
+342,Endothelial Cells
+343,Fibroblasts
+344,Smooth Muscle
+345,Fibroblasts
+346,Fibroblasts
+347,Smooth Muscle
+348,Basal Keratinocytes
+349,Fibroblasts
+350,Endothelial Cells
+351,Endothelial Cells
+352,Fibroblasts
+353,Fibroblasts
+354,Suprabasal Keratinocytes
+355,Suprabasal Keratinocytes
+356,Suprabasal Keratinocytes
+357,Suprabasal Keratinocytes
+358,Fibroblasts
+359,Fibroblasts
+360,Fibroblasts
+361,Fibroblasts
+362,Fibroblasts
+363,Basal Keratinocytes
+364,Fibroblasts
+365,Fibroblasts
+366,Fibroblasts
+367,Smooth Muscle
+368,Fibroblasts
+369,Macrophages/DC
+370,Endothelial Cells
+371,Fibroblasts
+372,Fibroblasts
+373,Fibroblasts
+374,Fibroblasts
+375,Suprabasal Keratinocytes
+376,Endothelial Cells
+377,Pericytes
+378,Fibroblasts
+379,Basal Keratinocytes
+380,Fibroblasts
+381,Fibroblasts
+382,Endothelial Cells
+383,Fibroblasts
+384,Endothelial Cells
+385,Suprabasal Keratinocytes
+386,Fibroblasts
+387,Fibroblasts
+388,Fibroblasts
+389,Basal Keratinocytes
+390,Fibroblasts
+391,Fibroblasts
+392,Fibroblasts
+393,Fibroblasts
+394,Endothelial Cells
+395,Fibroblasts
+396,Fibroblasts
+397,Smooth Muscle
+398,Basal Keratinocytes
+399,Fibroblasts
+400,Fibroblasts
+401,Fibroblasts
+402,Basal Keratinocytes
+403,Fibroblasts
+404,Fibroblasts
+405,Fibroblasts
+406,Basal Keratinocytes
+407,Suprabasal Keratinocytes
+408,Fibroblasts
+409,Suprabasal Keratinocytes
+410,Fibroblasts
+411,Smooth Muscle
+412,Endothelial Cells
+413,Fibroblasts
+414,Fibroblasts
+415,Pericytes
+416,Pericytes
+417,Suprabasal Keratinocytes
+418,Fibroblasts
+419,Fibroblasts
+420,Endothelial Cells
+421,Fibroblasts
+422,Endothelial Cells
+423,Basal Keratinocytes
+424,Fibroblasts
+425,Basal Keratinocytes
+426,Fibroblasts
+427,Basal Keratinocytes
+428,Smooth Muscle
+429,Fibroblasts
+430,Endothelial Cells
+431,Suprabasal Keratinocytes
+432,Fibroblasts
+433,Fibroblasts
+434,Suprabasal Keratinocytes
+435,Suprabasal Keratinocytes
+436,Fibroblasts
+437,Fibroblasts
+438,Endothelial Cells
+439,Endothelial Cells
+440,Pericytes
+441,Smooth Muscle
+442,Fibroblasts
+443,Fibroblasts
+444,Fibroblasts
+445,Fibroblasts
+446,Smooth Muscle
+447,Fibroblasts
+448,Fibroblasts
+449,Fibroblasts
+450,Fibroblasts
+451,Fibroblasts
+452,Fibroblasts
+453,Suprabasal Keratinocytes
+454,Fibroblasts
+455,Fibroblasts
+456,Endothelial Cells
+457,Fibroblasts
+458,Macrophages/DC
+459,Basal Keratinocytes
+460,Endothelial Cells
+461,Basal Keratinocytes
+462,Endothelial Cells
+463,Fibroblasts
+464,Suprabasal Keratinocytes
+465,Suprabasal Keratinocytes
+466,Fibroblasts
+467,Fibroblasts
+468,Basal Keratinocytes
+469,Suprabasal Keratinocytes
+470,Endothelial Cells
+471,Fibroblasts
+472,Basal Keratinocytes
+473,Suprabasal Keratinocytes
+474,Fibroblasts
+475,Basal Keratinocytes
+476,Basal Keratinocytes
+477,Suprabasal Keratinocytes
+478,Endothelial Cells
+479,Basal Keratinocytes
+480,Endothelial Cells
+481,Macrophages/DC
+482,Fibroblasts
+483,Endothelial Cells
+484,Basal Keratinocytes
+485,Suprabasal Keratinocytes
+486,Suprabasal Keratinocytes
+487,Fibroblasts
+488,Basal Keratinocytes
+489,Pericytes
+490,Endothelial Cells
+491,Suprabasal Keratinocytes
+492,Endothelial Cells
+493,Suprabasal Keratinocytes
+494,Endothelial Cells
+495,Basal Keratinocytes
+496,Fibroblasts
+497,Fibroblasts
+498,Fibroblasts
+499,Fibroblasts
+500,Fibroblasts
+501,Endothelial Cells
+502,Fibroblasts
+503,Basal Keratinocytes
+504,Suprabasal Keratinocytes
+505,Basal Keratinocytes
+506,Endothelial Cells
+507,Smooth Muscle
+508,Suprabasal Keratinocytes
+509,Fibroblasts
+510,Fibroblasts
+511,Macrophages/DC
+512,Endothelial Cells
+513,Basal Keratinocytes
+514,Fibroblasts
+515,Basal Keratinocytes
+516,Fibroblasts
+517,Fibroblasts
+518,Basal Keratinocytes
+519,Endothelial Cells
+520,Suprabasal Keratinocytes
+521,Endothelial Cells
+522,Endothelial Cells
+523,Basal Keratinocytes
+524,Suprabasal Keratinocytes
+525,Fibroblasts
+526,Endothelial Cells
+527,Pericytes
+528,Suprabasal Keratinocytes
+529,Fibroblasts
+530,Basal Keratinocytes
+531,Basal Keratinocytes
+532,Endothelial Cells
+533,Basal Keratinocytes
+534,Basal Keratinocytes
+535,Suprabasal Keratinocytes
+536,Endothelial Cells
+537,Basal Keratinocytes
+538,Pericytes
+539,Suprabasal Keratinocytes
+540,Smooth Muscle
+541,Fibroblasts
+542,Suprabasal Keratinocytes
+543,Basal Keratinocytes
+544,Suprabasal Keratinocytes
+545,Suprabasal Keratinocytes
+546,Fibroblasts
+547,Smooth Muscle
+548,Fibroblasts
+549,Endothelial Cells
+550,Fibroblasts
+551,Basal Keratinocytes
+552,Basal Keratinocytes
+553,Fibroblasts
+554,Basal Keratinocytes
+555,Basal Keratinocytes
+556,Endothelial Cells
+557,Basal Keratinocytes
+558,Endothelial Cells
+559,Basal Keratinocytes
+560,Pericytes
+561,Basal Keratinocytes
+562,Suprabasal Keratinocytes
+563,Fibroblasts
+564,Suprabasal Keratinocytes
+565,Basal Keratinocytes
+566,Fibroblasts
+567,Basal Keratinocytes
+568,Melanocytes
+569,Fibroblasts
+570,Suprabasal Keratinocytes
+571,Macrophages/DC
+572,Fibroblasts
+573,Macrophages/DC
+574,Endothelial Cells
+575,Macrophages/DC
+576,Suprabasal Keratinocytes
+577,Basal Keratinocytes
+578,Basal Keratinocytes
+579,Suprabasal Keratinocytes
+580,Basal Keratinocytes
+581,Basal Keratinocytes
+582,Suprabasal Keratinocytes
+583,Suprabasal Keratinocytes
+584,Smooth Muscle
+585,Pericytes
+586,Basal Keratinocytes
+587,Fibroblasts
+588,Endothelial Cells
+589,Suprabasal Keratinocytes
+590,Pericytes
+591,Pericytes
+592,Pericytes
+593,Basal Keratinocytes
+594,Suprabasal Keratinocytes
+595,Basal Keratinocytes
+596,Suprabasal Keratinocytes
+597,Endothelial Cells
+598,Suprabasal Keratinocytes
+599,Endothelial Cells
+600,Endothelial Cells
+601,Suprabasal Keratinocytes
+602,Suprabasal Keratinocytes
+603,Endothelial Cells
+604,Basal Keratinocytes
+605,Pericytes
+606,Pericytes
+607,Fibroblasts
+608,Fibroblasts
+609,Fibroblasts
+610,Basal Keratinocytes
+611,Fibroblasts
+612,Fibroblasts
+613,Fibroblasts
+614,Pericytes
+615,Basal Keratinocytes
+616,Suprabasal Keratinocytes
+617,Fibroblasts
+618,Endothelial Cells
+619,Smooth Muscle
+620,Fibroblasts
+621,Endothelial Cells
+622,Pericytes
+623,Fibroblasts
+624,Pericytes
+625,Fibroblasts
+626,Smooth Muscle
+627,Pericytes
+628,Fibroblasts
+629,Suprabasal Keratinocytes
+630,Smooth Muscle
+631,Fibroblasts
+632,Pericytes
+633,Endothelial Cells
+634,Basal Keratinocytes
+635,Suprabasal Keratinocytes
+636,Fibroblasts
+637,Basal Keratinocytes
+638,Basal Keratinocytes
+639,Suprabasal Keratinocytes
+640,Basal Keratinocytes
+641,Fibroblasts
+642,Basal Keratinocytes
+643,Basal Keratinocytes
+644,Smooth Muscle
+645,Basal Keratinocytes
+646,Suprabasal Keratinocytes
+647,Basal Keratinocytes
+648,Basal Keratinocytes
+649,Endothelial Cells
+650,Endothelial Cells
+651,Pericytes
+652,Smooth Muscle
+653,Basal Keratinocytes
+654,Pericytes
+655,Fibroblasts
+656,Basal Keratinocytes
+657,Suprabasal Keratinocytes
+658,Basal Keratinocytes
+659,Endothelial Cells
+660,Pericytes
+661,Suprabasal Keratinocytes
+662,Pericytes
+663,Suprabasal Keratinocytes
+664,Fibroblasts
+665,Suprabasal Keratinocytes
+666,Endothelial Cells
+667,Fibroblasts
+668,Smooth Muscle
+669,Basal Keratinocytes
+670,Basal Keratinocytes
+671,Basal Keratinocytes
+672,Endothelial Cells
+673,Suprabasal Keratinocytes
+674,Suprabasal Keratinocytes
+675,Fibroblasts
+676,Suprabasal Keratinocytes
+677,Suprabasal Keratinocytes
+678,Suprabasal Keratinocytes
+679,Fibroblasts
+680,Endothelial Cells
+681,Pericytes
+682,Basal Keratinocytes
+683,Fibroblasts
+684,Endothelial Cells
+685,Endothelial Cells
+686,Endothelial Cells
+687,Pericytes
+688,Fibroblasts
+689,Basal Keratinocytes
+690,Basal Keratinocytes
+691,Fibroblasts
+692,Basal Keratinocytes
+693,Pericytes
+694,Endothelial Cells
+695,Endothelial Cells
+696,Basal Keratinocytes
+697,Endothelial Cells
+698,Basal Keratinocytes
+699,Pericytes
+700,Suprabasal Keratinocytes
+701,Endothelial Cells
+702,Endothelial Cells
+703,Endothelial Cells
+704,Suprabasal Keratinocytes
+705,Fibroblasts
+706,Basal Keratinocytes
+707,Basal Keratinocytes
+708,Macrophages/DC
+709,Fibroblasts
+710,Endothelial Cells
+711,Pericytes
+712,Melanocytes
+713,Smooth Muscle
+714,Suprabasal Keratinocytes
+715,Basal Keratinocytes
+716,Suprabasal Keratinocytes
+717,Endothelial Cells
+718,Pericytes
+719,Suprabasal Keratinocytes
+720,Endothelial Cells
+721,Endothelial Cells
+722,Smooth Muscle
+723,Suprabasal Keratinocytes
+724,Suprabasal Keratinocytes
+725,Fibroblasts
+726,Fibroblasts
+727,Basal Keratinocytes
+728,Fibroblasts
+729,Endothelial Cells
+730,Fibroblasts
+731,Suprabasal Keratinocytes
+732,Pericytes
+733,Suprabasal Keratinocytes
+734,Suprabasal Keratinocytes
+735,Fibroblasts
+736,Basal Keratinocytes
+737,Pericytes
+738,Fibroblasts
+739,Basal Keratinocytes
+740,Smooth Muscle
+741,Smooth Muscle
+742,Endothelial Cells
+743,Basal Keratinocytes
+744,Endothelial Cells
+745,Basal Keratinocytes
+746,Smooth Muscle
+747,Endothelial Cells
+748,Fibroblasts
+749,Endothelial Cells
+750,Basal Keratinocytes
+751,Pericytes
+752,Endothelial Cells
+753,Suprabasal Keratinocytes
+754,Smooth Muscle
+755,Endothelial Cells
+756,Fibroblasts
+757,Basal Keratinocytes
+758,Basal Keratinocytes
+759,Fibroblasts
+760,Suprabasal Keratinocytes
+761,Fibroblasts
+762,Pericytes
+763,Pericytes
+764,Suprabasal Keratinocytes
+765,Suprabasal Keratinocytes
+766,Basal Keratinocytes
+767,Suprabasal Keratinocytes
+768,Suprabasal Keratinocytes
+769,Fibroblasts
+770,Macrophages/DC
+771,Suprabasal Keratinocytes
+772,Basal Keratinocytes
+773,Macrophages/DC
+774,Pericytes
+775,Suprabasal Keratinocytes
+776,Pericytes
+777,Endothelial Cells
+778,Endothelial Cells
+779,Macrophages/DC
+780,Endothelial Cells
+781,Endothelial Cells
+782,Basal Keratinocytes
+783,Fibroblasts
+784,Pericytes
+785,Smooth Muscle
+786,Endothelial Cells
+787,Pericytes
+788,Suprabasal Keratinocytes
+789,Basal Keratinocytes
+790,Basal Keratinocytes
+791,Suprabasal Keratinocytes
+792,Smooth Muscle
+793,Fibroblasts
+794,Smooth Muscle
+795,Basal Keratinocytes
+796,Fibroblasts
+797,Endothelial Cells
+798,Suprabasal Keratinocytes
+799,Suprabasal Keratinocytes
+800,Pericytes
+801,Suprabasal Keratinocytes
+802,Endothelial Cells
+803,Suprabasal Keratinocytes
+804,Endothelial Cells
+805,Smooth Muscle
+806,Fibroblasts
+807,Basal Keratinocytes
+808,Basal Keratinocytes
+809,Basal Keratinocytes
+810,Suprabasal Keratinocytes
+811,Suprabasal Keratinocytes
+812,Pericytes
+813,Endothelial Cells
+814,Suprabasal Keratinocytes
+815,Fibroblasts
+816,Pericytes
+817,Suprabasal Keratinocytes
+818,Basal Keratinocytes
+819,Fibroblasts
+820,Endothelial Cells
+821,Endothelial Cells
+822,Endothelial Cells
+823,Endothelial Cells
+824,Endothelial Cells
+825,Pericytes
+826,Fibroblasts
+827,Suprabasal Keratinocytes
+828,Fibroblasts
+829,Basal Keratinocytes
+830,Suprabasal Keratinocytes
+831,Melanocytes
+832,Endothelial Cells
+833,Fibroblasts
+834,Pericytes
+835,Suprabasal Keratinocytes
+836,Suprabasal Keratinocytes
+837,Fibroblasts
+838,Endothelial Cells
+839,Pericytes
+840,Basal Keratinocytes
+841,Pericytes
+842,Fibroblasts
+843,Basal Keratinocytes
+844,Basal Keratinocytes
+845,Endothelial Cells
+846,Basal Keratinocytes
+847,Basal Keratinocytes
+848,Basal Keratinocytes
+849,Basal Keratinocytes
+850,Endothelial Cells
+851,Suprabasal Keratinocytes
+852,Melanocytes
+853,Fibroblasts
+854,Suprabasal Keratinocytes
+855,Suprabasal Keratinocytes
+856,Endothelial Cells
+857,Macrophages/DC
+858,Endothelial Cells
+859,Macrophages/DC
+860,Basal Keratinocytes
+861,Basal Keratinocytes
+862,Endothelial Cells
+863,Suprabasal Keratinocytes
+864,Fibroblasts
+865,Suprabasal Keratinocytes
+866,Fibroblasts
+867,Suprabasal Keratinocytes
+868,Suprabasal Keratinocytes
+869,Pericytes
+870,Suprabasal Keratinocytes
+871,Basal Keratinocytes
+872,Basal Keratinocytes
+873,Fibroblasts
+874,Basal Keratinocytes
+875,Fibroblasts
+876,Fibroblasts
+877,Fibroblasts
+878,Fibroblasts
+879,Pericytes
+880,Basal Keratinocytes
+881,Basal Keratinocytes
+882,Endothelial Cells
+883,Fibroblasts
+884,Suprabasal Keratinocytes
+885,Pericytes
+886,Suprabasal Keratinocytes
+887,Endothelial Cells
+888,Basal Keratinocytes
+889,Endothelial Cells
+890,Endothelial Cells
+891,Smooth Muscle
+892,Endothelial Cells
+893,Endothelial Cells
+894,Suprabasal Keratinocytes
+895,Fibroblasts
+896,Basal Keratinocytes
+897,Fibroblasts
+898,Suprabasal Keratinocytes
+899,Pericytes
+900,Endothelial Cells
+901,Fibroblasts
+902,Endothelial Cells
+903,Suprabasal Keratinocytes
+904,Fibroblasts
+905,Fibroblasts
+906,Suprabasal Keratinocytes
+907,Basal Keratinocytes
+908,Endothelial Cells
+909,Fibroblasts
+910,Suprabasal Keratinocytes
+911,Fibroblasts
+912,Pericytes
+913,Basal Keratinocytes
+914,Suprabasal Keratinocytes
+915,Endothelial Cells
+916,Fibroblasts
+917,Suprabasal Keratinocytes
+918,Basal Keratinocytes
+919,Pericytes
+920,Macrophages/DC
+921,Macrophages/DC
+922,Fibroblasts
+923,Fibroblasts
+924,Smooth Muscle
+925,Basal Keratinocytes
+926,Smooth Muscle
+927,Basal Keratinocytes
+928,Basal Keratinocytes
+929,Basal Keratinocytes
+930,Endothelial Cells
+931,Endothelial Cells
+932,Pericytes
+933,Fibroblasts
+934,Endothelial Cells
+935,Pericytes
+936,Melanocytes
+937,Fibroblasts
+938,Fibroblasts
+939,Pericytes
+940,Fibroblasts
+941,Endothelial Cells
+942,Pericytes
+943,Endothelial Cells
+944,Melanocytes
+945,Endothelial Cells
+946,Basal Keratinocytes
+947,Melanocytes
+948,Basal Keratinocytes
+949,Basal Keratinocytes
+950,Macrophages/DC
+951,Fibroblasts
+952,Fibroblasts
+953,Fibroblasts
+954,Pericytes
+955,Fibroblasts
+956,Suprabasal Keratinocytes
+957,Basal Keratinocytes
+958,Basal Keratinocytes
+959,Fibroblasts
+960,Endothelial Cells
+961,Fibroblasts
+962,Basal Keratinocytes
+963,Fibroblasts
+964,Basal Keratinocytes
+965,Fibroblasts
+966,Suprabasal Keratinocytes
+967,Basal Keratinocytes
+968,Endothelial Cells
+969,Suprabasal Keratinocytes
+970,Suprabasal Keratinocytes
+971,Endothelial Cells
+972,Suprabasal Keratinocytes
+973,Suprabasal Keratinocytes
+974,Basal Keratinocytes
+975,Pericytes
+976,Endothelial Cells
+977,Basal Keratinocytes
+978,Fibroblasts
+979,Melanocytes
+980,Endothelial Cells
+981,Pericytes
+982,Suprabasal Keratinocytes
+983,Fibroblasts
+984,Macrophages/DC
+985,Suprabasal Keratinocytes
+986,Suprabasal Keratinocytes
+987,Endothelial Cells
+988,Basal Keratinocytes
+989,Fibroblasts
+990,Endothelial Cells
+991,Fibroblasts
+992,Basal Keratinocytes
+993,Suprabasal Keratinocytes
+994,Fibroblasts
+995,Suprabasal Keratinocytes
+996,Pericytes
+997,Basal Keratinocytes
+998,Endothelial Cells
+999,Suprabasal Keratinocytes
+1000,Suprabasal Keratinocytes
+1001,Fibroblasts
+1002,Suprabasal Keratinocytes
+1003,Fibroblasts
+1004,Endothelial Cells
+1005,Basal Keratinocytes
+1006,Smooth Muscle
+1007,Basal Keratinocytes
+1008,Fibroblasts
+1009,Endothelial Cells
+1010,Basal Keratinocytes
+1011,Suprabasal Keratinocytes
+1012,Macrophages/DC
+1013,Macrophages/DC
+1014,Pericytes
+1015,Fibroblasts
+1016,Pericytes
+1017,Pericytes
+1018,Endothelial Cells
+1019,Endothelial Cells
+1020,Suprabasal Keratinocytes
+1021,Suprabasal Keratinocytes
+1022,Suprabasal Keratinocytes
+1023,Basal Keratinocytes
+1024,Suprabasal Keratinocytes
+1025,Fibroblasts
+1026,Basal Keratinocytes
+1027,Fibroblasts
+1028,Endothelial Cells
+1029,Basal Keratinocytes
+1030,Endothelial Cells
+1031,Pericytes
+1032,Fibroblasts
+1033,Basal Keratinocytes
+1034,Pericytes
+1035,Fibroblasts
+1036,Basal Keratinocytes
+1037,Suprabasal Keratinocytes
+1038,Suprabasal Keratinocytes
+1039,Endothelial Cells
+1040,Pericytes
+1041,Endothelial Cells
+1042,Basal Keratinocytes
+1043,Endothelial Cells
+1044,Endothelial Cells
+1045,Endothelial Cells
+1046,Suprabasal Keratinocytes
+1047,Basal Keratinocytes
+1048,Suprabasal Keratinocytes
+1049,Suprabasal Keratinocytes
+1050,Melanocytes
+1051,Suprabasal Keratinocytes
+1052,Suprabasal Keratinocytes
+1053,Basal Keratinocytes
+1054,Basal Keratinocytes
+1055,Fibroblasts
+1056,Basal Keratinocytes
+1057,Suprabasal Keratinocytes
+1058,Basal Keratinocytes
+1059,Macrophages/DC
+1060,Basal Keratinocytes
+1061,Fibroblasts
+1062,Basal Keratinocytes
+1063,Suprabasal Keratinocytes
+1064,Basal Keratinocytes
+1065,Suprabasal Keratinocytes
+1066,Basal Keratinocytes
+1067,Fibroblasts
+1068,Suprabasal Keratinocytes
+1069,Pericytes
+1070,Endothelial Cells
+1071,Pericytes
+1072,Pericytes
+1073,Fibroblasts
+1074,Fibroblasts
+1075,Basal Keratinocytes
+1076,Pericytes
+1077,Fibroblasts
+1078,Suprabasal Keratinocytes
+1079,Basal Keratinocytes
+1080,Fibroblasts
+1081,Macrophages/DC
+1082,Endothelial Cells
+1083,Basal Keratinocytes
+1084,Basal Keratinocytes
+1085,Fibroblasts
+1086,Endothelial Cells
+1087,Endothelial Cells
+1088,Fibroblasts
+1089,Suprabasal Keratinocytes
+1090,Basal Keratinocytes
+1091,Endothelial Cells
+1092,Fibroblasts
+1093,Basal Keratinocytes
+1094,Basal Keratinocytes
+1095,Suprabasal Keratinocytes
+1096,Fibroblasts
+1097,Macrophages/DC
+1098,Basal Keratinocytes
+1099,Endothelial Cells
+1100,Basal Keratinocytes
+1101,Pericytes
+1102,Macrophages/DC
+1103,Macrophages/DC
+1104,Suprabasal Keratinocytes
+1105,Endothelial Cells
+1106,Endothelial Cells
+1107,Fibroblasts
+1108,Endothelial Cells
+1109,Basal Keratinocytes
+1110,Suprabasal Keratinocytes
+1111,Endothelial Cells
+1112,Endothelial Cells
+1113,Fibroblasts
+1114,Suprabasal Keratinocytes
+1115,Endothelial Cells
+1116,Suprabasal Keratinocytes
+1117,Basal Keratinocytes
+1118,Macrophages/DC
+1119,Endothelial Cells
+1120,Endothelial Cells
+1121,Fibroblasts
+1122,Endothelial Cells
+1123,Suprabasal Keratinocytes
+1124,Suprabasal Keratinocytes
+1125,Fibroblasts
+1126,Pericytes
+1127,Endothelial Cells
+1128,Suprabasal Keratinocytes
+1129,Basal Keratinocytes
+1130,Suprabasal Keratinocytes
+1131,Fibroblasts
+1132,Pericytes
+1133,Pericytes
+1134,Endothelial Cells
+1135,Basal Keratinocytes
+1136,Basal Keratinocytes
+1137,Smooth Muscle
+1138,Basal Keratinocytes
+1139,Suprabasal Keratinocytes
+1140,Suprabasal Keratinocytes
+1141,Basal Keratinocytes
+1142,Fibroblasts
+1143,Suprabasal Keratinocytes
+1144,Basal Keratinocytes
+1145,Endothelial Cells
+1146,Endothelial Cells
+1147,Basal Keratinocytes
+1148,Fibroblasts
+1149,Fibroblasts
+1150,Fibroblasts
+1151,Endothelial Cells
+1152,Suprabasal Keratinocytes
+1153,Fibroblasts
+1154,Endothelial Cells
+1155,Fibroblasts
+1156,Endothelial Cells
+1157,Fibroblasts
+1158,Basal Keratinocytes
+1159,Endothelial Cells
+1160,Basal Keratinocytes
+1161,Fibroblasts
+1162,Basal Keratinocytes
+1163,Suprabasal Keratinocytes
+1164,Fibroblasts
+1165,Suprabasal Keratinocytes
+1166,Fibroblasts
+1167,Basal Keratinocytes
+1168,Endothelial Cells
+1169,Basal Keratinocytes
+1170,Suprabasal Keratinocytes
+1171,Endothelial Cells
+1172,Endothelial Cells
+1173,Basal Keratinocytes
+1174,Fibroblasts
+1175,Macrophages/DC
+1176,Pericytes
+1177,Fibroblasts
+1178,Basal Keratinocytes
+1179,Basal Keratinocytes
+1180,Fibroblasts
+1181,Macrophages/DC
+1182,Basal Keratinocytes
+1183,Suprabasal Keratinocytes
+1184,Fibroblasts
+1185,Basal Keratinocytes
+1186,Fibroblasts
+1187,Basal Keratinocytes
+1188,Endothelial Cells
+1189,Basal Keratinocytes
+1190,Fibroblasts
+1191,Suprabasal Keratinocytes
+1192,Basal Keratinocytes
+1193,Endothelial Cells
+1194,Endothelial Cells
+1195,Fibroblasts
+1196,Fibroblasts
+1197,Basal Keratinocytes
+1198,Endothelial Cells
+1199,Basal Keratinocytes
+1200,Suprabasal Keratinocytes
+1201,Endothelial Cells
+1202,Endothelial Cells
+1203,Suprabasal Keratinocytes
+1204,Basal Keratinocytes
+1205,Basal Keratinocytes
+1206,Endothelial Cells
+1207,Pericytes
+1208,Suprabasal Keratinocytes
+1209,Suprabasal Keratinocytes
+1210,Pericytes
+1211,Basal Keratinocytes
+1212,Endothelial Cells
+1213,Suprabasal Keratinocytes
+1214,Fibroblasts
+1215,Fibroblasts
+1216,Endothelial Cells
+1217,Fibroblasts
+1218,Suprabasal Keratinocytes
+1219,Smooth Muscle
+1220,Suprabasal Keratinocytes
+1221,Fibroblasts
+1222,Suprabasal Keratinocytes
+1223,Fibroblasts
+1224,Suprabasal Keratinocytes
+1225,Smooth Muscle
+1226,Suprabasal Keratinocytes
+1227,Fibroblasts
+1228,Endothelial Cells
+1229,Basal Keratinocytes
+1230,Smooth Muscle
+1231,Basal Keratinocytes
+1232,Endothelial Cells
+1233,Fibroblasts
+1234,Basal Keratinocytes
+1235,Endothelial Cells
+1236,Macrophages/DC
+1237,Endothelial Cells
+1238,Endothelial Cells
+1239,Smooth Muscle
+1240,Basal Keratinocytes
+1241,Suprabasal Keratinocytes
+1242,Suprabasal Keratinocytes
+1243,Endothelial Cells
+1244,Fibroblasts
+1245,Suprabasal Keratinocytes
+1246,Fibroblasts
+1247,Suprabasal Keratinocytes
+1248,Suprabasal Keratinocytes
+1249,Suprabasal Keratinocytes
+1250,Basal Keratinocytes
+1251,Fibroblasts
+1252,Fibroblasts
+1253,Basal Keratinocytes
+1254,Basal Keratinocytes
+1255,Endothelial Cells
+1256,Endothelial Cells
+1257,Pericytes
+1258,Fibroblasts
+1259,Endothelial Cells
+1260,Pericytes
+1261,Fibroblasts
+1262,Fibroblasts
+1263,Fibroblasts
+1264,Endothelial Cells
+1265,Basal Keratinocytes
+1266,Endothelial Cells
+1267,Suprabasal Keratinocytes
+1268,Endothelial Cells
+1269,Fibroblasts
+1270,Basal Keratinocytes
+1271,Suprabasal Keratinocytes
+1272,Fibroblasts
+1273,Fibroblasts
+1274,Fibroblasts
+1275,Basal Keratinocytes
+1276,Fibroblasts
+1277,Basal Keratinocytes
+1278,Fibroblasts
+1279,Fibroblasts
+1280,Suprabasal Keratinocytes
+1281,Endothelial Cells
+1282,Endothelial Cells
+1283,Fibroblasts
+1284,Endothelial Cells
+1285,Suprabasal Keratinocytes
+1286,Basal Keratinocytes
+1287,Smooth Muscle
+1288,Basal Keratinocytes
+1289,Suprabasal Keratinocytes
+1290,Fibroblasts
+1291,Suprabasal Keratinocytes
+1292,Endothelial Cells
+1293,Fibroblasts
+1294,Endothelial Cells
+1295,Basal Keratinocytes
+1296,Smooth Muscle
+1297,Smooth Muscle
+1298,Endothelial Cells
+1299,Melanocytes
+1300,Basal Keratinocytes
+1301,Suprabasal Keratinocytes
+1302,Endothelial Cells
+1303,Basal Keratinocytes
+1304,Suprabasal Keratinocytes
+1305,Fibroblasts
+1306,Basal Keratinocytes
+1307,Pericytes
+1308,Fibroblasts
+1309,Suprabasal Keratinocytes
+1310,Suprabasal Keratinocytes
+1311,Basal Keratinocytes
+1312,Suprabasal Keratinocytes
+1313,Basal Keratinocytes
+1314,Pericytes
+1315,Basal Keratinocytes
+1316,Pericytes
+1317,Pericytes
+1318,Pericytes
+1319,Pericytes
+1320,Suprabasal Keratinocytes
+1321,Basal Keratinocytes
+1322,Pericytes
+1323,Endothelial Cells
+1324,Fibroblasts
+1325,Pericytes
+1326,Melanocytes
+1327,Pericytes
+1328,Endothelial Cells
+1329,Fibroblasts
+1330,Fibroblasts
+1331,Suprabasal Keratinocytes
+1332,Endothelial Cells
+1333,Endothelial Cells
+1334,Basal Keratinocytes
+1335,Endothelial Cells
+1336,Suprabasal Keratinocytes
+1337,Basal Keratinocytes
+1338,Fibroblasts
+1339,Pericytes
+1340,Fibroblasts
+1341,Endothelial Cells
+1342,Suprabasal Keratinocytes
+1343,Endothelial Cells
+1344,Basal Keratinocytes
+1345,Fibroblasts
+1346,Basal Keratinocytes
+1347,Macrophages/DC
+1348,Suprabasal Keratinocytes
+1349,Basal Keratinocytes
+1350,Fibroblasts
+1351,Macrophages/DC
+1352,Suprabasal Keratinocytes
+1353,Endothelial Cells
+1354,Fibroblasts
+1355,Endothelial Cells
+1356,Basal Keratinocytes
+1357,Basal Keratinocytes
+1358,Smooth Muscle
+1359,Endothelial Cells
+1360,Basal Keratinocytes
+1361,Endothelial Cells
+1362,Basal Keratinocytes
+1363,Suprabasal Keratinocytes
+1364,Suprabasal Keratinocytes
+1365,Macrophages/DC
+1366,Fibroblasts
+1367,Fibroblasts
+1368,Suprabasal Keratinocytes
+1369,Pericytes
+1370,Endothelial Cells
+1371,Smooth Muscle
+1372,Suprabasal Keratinocytes
+1373,Basal Keratinocytes
+1374,Smooth Muscle
+1375,Endothelial Cells
+1376,Basal Keratinocytes
+1377,Suprabasal Keratinocytes
+1378,Fibroblasts
+1379,Basal Keratinocytes
+1380,Endothelial Cells
+1381,Suprabasal Keratinocytes
+1382,Pericytes
+1383,Pericytes
+1384,Basal Keratinocytes
+1385,Endothelial Cells
+1386,Basal Keratinocytes
+1387,Endothelial Cells
+1388,Endothelial Cells
+1389,Endothelial Cells
+1390,Suprabasal Keratinocytes
+1391,Smooth Muscle
+1392,Endothelial Cells
+1393,Endothelial Cells
+1394,Basal Keratinocytes
+1395,Suprabasal Keratinocytes
+1396,Macrophages/DC
+1397,Suprabasal Keratinocytes
+1398,Suprabasal Keratinocytes
+1399,Smooth Muscle
+1400,Suprabasal Keratinocytes
+1401,Melanocytes
+1402,Suprabasal Keratinocytes
+1403,Endothelial Cells
+1404,Basal Keratinocytes
+1405,Basal Keratinocytes
+1406,Suprabasal Keratinocytes
+1407,Macrophages/DC
+1408,Pericytes
+1409,Basal Keratinocytes
+1410,Fibroblasts
+1411,Basal Keratinocytes
+1412,Basal Keratinocytes
+1413,Fibroblasts
+1414,Endothelial Cells
+1415,Basal Keratinocytes
+1416,Suprabasal Keratinocytes
+1417,Suprabasal Keratinocytes
+1418,Pericytes
+1419,Basal Keratinocytes
+1420,Basal Keratinocytes
+1421,Suprabasal Keratinocytes
+1422,Suprabasal Keratinocytes
+1423,Suprabasal Keratinocytes
+1424,Endothelial Cells
+1425,Fibroblasts
+1426,Suprabasal Keratinocytes
+1427,Pericytes
+1428,Fibroblasts
+1429,Fibroblasts
+1430,Suprabasal Keratinocytes
+1431,Endothelial Cells
+1432,Suprabasal Keratinocytes
+1433,Suprabasal Keratinocytes
+1434,Basal Keratinocytes
+1435,Endothelial Cells
+1436,Suprabasal Keratinocytes
+1437,Endothelial Cells
+1438,Basal Keratinocytes
+1439,Suprabasal Keratinocytes
+1440,Pericytes
+1441,Macrophages/DC
+1442,Suprabasal Keratinocytes
+1443,Basal Keratinocytes
+1444,Basal Keratinocytes
+1445,Basal Keratinocytes
+1446,Endothelial Cells
+1447,Suprabasal Keratinocytes
+1448,Endothelial Cells
+1449,Suprabasal Keratinocytes
+1450,Endothelial Cells
+1451,Endothelial Cells
+1452,Pericytes
+1453,Suprabasal Keratinocytes
+1454,Basal Keratinocytes
+1455,Suprabasal Keratinocytes
+1456,Fibroblasts
+1457,Endothelial Cells
+1458,Suprabasal Keratinocytes
+1459,Basal Keratinocytes
+1460,Pericytes
+1461,Basal Keratinocytes
+1462,Suprabasal Keratinocytes
+1463,Pericytes
+1464,Basal Keratinocytes
+1465,Suprabasal Keratinocytes
+1466,Suprabasal Keratinocytes
+1467,Endothelial Cells
+1468,Basal Keratinocytes
+1469,Basal Keratinocytes
+1470,Basal Keratinocytes
+1471,Suprabasal Keratinocytes
+1472,Fibroblasts
+1473,Suprabasal Keratinocytes
+1474,Endothelial Cells
+1475,Suprabasal Keratinocytes
+1476,Suprabasal Keratinocytes
+1477,Fibroblasts
+1478,Fibroblasts
+1479,Fibroblasts
+1480,Suprabasal Keratinocytes
+1481,Suprabasal Keratinocytes
+1482,Pericytes
+1483,Endothelial Cells
+1484,Pericytes
+1485,Endothelial Cells
+1486,Pericytes
+1487,Basal Keratinocytes
+1488,Pericytes
+1489,Pericytes
+1490,Fibroblasts
+1491,Fibroblasts
+1492,Basal Keratinocytes
+1493,Fibroblasts
+1494,Endothelial Cells
+1495,Fibroblasts
+1496,Basal Keratinocytes
+1497,Suprabasal Keratinocytes
+1498,Endothelial Cells
+1499,Melanocytes
+1500,Fibroblasts
+1501,Basal Keratinocytes
+1502,Endothelial Cells
+1503,Suprabasal Keratinocytes
+1504,Suprabasal Keratinocytes
+1505,Endothelial Cells
+1506,Endothelial Cells
+1507,Macrophages/DC
+1508,Basal Keratinocytes
+1509,Suprabasal Keratinocytes
+1510,Endothelial Cells
+1511,Basal Keratinocytes
+1512,Smooth Muscle
+1513,Fibroblasts
+1514,Suprabasal Keratinocytes
+1515,Macrophages/DC
+1516,Suprabasal Keratinocytes
+1517,Basal Keratinocytes
+1518,Pericytes
+1519,Basal Keratinocytes
+1520,Macrophages/DC
+1521,Pericytes
+1522,Suprabasal Keratinocytes
+1523,Suprabasal Keratinocytes
+1524,Basal Keratinocytes
+1525,Endothelial Cells
+1526,Fibroblasts
+1527,Endothelial Cells
+1528,Basal Keratinocytes
+1529,Endothelial Cells
+1530,Fibroblasts
+1531,Fibroblasts
+1532,Melanocytes
+1533,Pericytes
+1534,Endothelial Cells
+1535,Macrophages/DC
+1536,Suprabasal Keratinocytes
+1537,Basal Keratinocytes
+1538,Basal Keratinocytes
+1539,Basal Keratinocytes
+1540,Suprabasal Keratinocytes
+1541,Fibroblasts
+1542,Endothelial Cells
+1543,Fibroblasts
+1544,Suprabasal Keratinocytes
+1545,Fibroblasts
+1546,Suprabasal Keratinocytes
+1547,Suprabasal Keratinocytes
+1548,Basal Keratinocytes
+1549,Suprabasal Keratinocytes
+1550,Macrophages/DC
+1551,Suprabasal Keratinocytes
+1552,Basal Keratinocytes
+1553,Suprabasal Keratinocytes
+1554,Suprabasal Keratinocytes
+1555,Basal Keratinocytes
+1556,Pericytes
+1557,Suprabasal Keratinocytes
+1558,Suprabasal Keratinocytes
+1559,Fibroblasts
+1560,Suprabasal Keratinocytes
+1561,Basal Keratinocytes
+1562,Fibroblasts
+1563,Fibroblasts
+1564,Endothelial Cells
+1565,Macrophages/DC
+1566,Basal Keratinocytes
+1567,Fibroblasts
+1568,Fibroblasts
+1569,Macrophages/DC
+1570,Suprabasal Keratinocytes
+1571,Suprabasal Keratinocytes
+1572,Basal Keratinocytes
+1573,Basal Keratinocytes
+1574,Pericytes
+1575,Fibroblasts
+1576,Fibroblasts
+1577,Suprabasal Keratinocytes
+1578,Endothelial Cells
+1579,Pericytes
+1580,Pericytes
+1581,Basal Keratinocytes
+1582,Endothelial Cells
+1583,Basal Keratinocytes
+1584,Basal Keratinocytes
+1585,Endothelial Cells
+1586,Basal Keratinocytes
+1587,Pericytes
+1588,Suprabasal Keratinocytes
+1589,Endothelial Cells
+1590,Fibroblasts
+1591,Suprabasal Keratinocytes
+1592,Pericytes
+1593,Endothelial Cells
+1594,Basal Keratinocytes
+1595,Fibroblasts
+1596,Fibroblasts
+1597,Fibroblasts
+1598,Endothelial Cells
+1599,Endothelial Cells
+1600,Basal Keratinocytes
+1601,Pericytes
+1602,Basal Keratinocytes
+1603,Pericytes
+1604,Basal Keratinocytes
+1605,Suprabasal Keratinocytes
+1606,Endothelial Cells
+1607,Fibroblasts
+1608,Suprabasal Keratinocytes
+1609,Suprabasal Keratinocytes
+1610,Fibroblasts
+1611,Suprabasal Keratinocytes
+1612,Suprabasal Keratinocytes
+1613,Endothelial Cells
+1614,Fibroblasts
+1615,Suprabasal Keratinocytes
+1616,Suprabasal Keratinocytes
+1617,Basal Keratinocytes
+1618,Suprabasal Keratinocytes
+1619,Endothelial Cells
+1620,Suprabasal Keratinocytes
+1621,Suprabasal Keratinocytes
+1622,Endothelial Cells
+1623,Endothelial Cells
+1624,Endothelial Cells
+1625,Suprabasal Keratinocytes
+1626,Basal Keratinocytes
+1627,Basal Keratinocytes
+1628,Basal Keratinocytes
+1629,Basal Keratinocytes
+1630,Endothelial Cells
+1631,Suprabasal Keratinocytes
+1632,Endothelial Cells
+1633,Basal Keratinocytes
+1634,Endothelial Cells
+1635,Fibroblasts
+1636,Basal Keratinocytes
+1637,Suprabasal Keratinocytes
+1638,Suprabasal Keratinocytes
+1639,Fibroblasts
+1640,Basal Keratinocytes
+1641,Basal Keratinocytes
+1642,Basal Keratinocytes
+1643,Basal Keratinocytes
+1644,Smooth Muscle
+1645,Suprabasal Keratinocytes
+1646,Endothelial Cells
+1647,Endothelial Cells
+1648,Smooth Muscle
+1649,Pericytes
+1650,Pericytes
+1651,Smooth Muscle
+1652,Fibroblasts
+1653,Suprabasal Keratinocytes
+1654,Endothelial Cells
+1655,Suprabasal Keratinocytes
+1656,Basal Keratinocytes
+1657,Basal Keratinocytes
+1658,Suprabasal Keratinocytes
+1659,Endothelial Cells
+1660,Fibroblasts
+1661,Suprabasal Keratinocytes
+1662,Basal Keratinocytes
+1663,Basal Keratinocytes
+1664,Endothelial Cells
+1665,Fibroblasts
+1666,Basal Keratinocytes
+1667,Endothelial Cells
+1668,Fibroblasts
+1669,Suprabasal Keratinocytes
+1670,Endothelial Cells
+1671,Endothelial Cells
+1672,Suprabasal Keratinocytes
+1673,Endothelial Cells
+1674,Fibroblasts
+1675,Fibroblasts
+1676,Endothelial Cells
+1677,Fibroblasts
+1678,Endothelial Cells
+1679,Fibroblasts
+1680,Fibroblasts
+1681,Basal Keratinocytes
+1682,Endothelial Cells
+1683,Suprabasal Keratinocytes
+1684,Endothelial Cells
+1685,Basal Keratinocytes
+1686,Melanocytes
+1687,Basal Keratinocytes
+1688,Melanocytes
+1689,Suprabasal Keratinocytes
+1690,Basal Keratinocytes
+1691,Basal Keratinocytes
+1692,Pericytes
+1693,Fibroblasts
+1694,Suprabasal Keratinocytes
+1695,Fibroblasts
+1696,Endothelial Cells
+1697,Melanocytes
+1698,Basal Keratinocytes
+1699,Endothelial Cells
+1700,Fibroblasts
+1701,Fibroblasts
+1702,Endothelial Cells
+1703,Fibroblasts
+1704,Endothelial Cells
+1705,Endothelial Cells
+1706,Endothelial Cells
+1707,Suprabasal Keratinocytes
+1708,Basal Keratinocytes
+1709,Suprabasal Keratinocytes
+1710,Fibroblasts
+1711,Suprabasal Keratinocytes
+1712,Suprabasal Keratinocytes
+1713,Suprabasal Keratinocytes
+1714,Endothelial Cells
+1715,Smooth Muscle
+1716,Suprabasal Keratinocytes
+1717,Suprabasal Keratinocytes
+1718,Endothelial Cells
+1719,Endothelial Cells
+1720,Suprabasal Keratinocytes
+1721,Fibroblasts
+1722,Fibroblasts
+1723,Suprabasal Keratinocytes
+1724,Fibroblasts
+1725,Basal Keratinocytes
+1726,Fibroblasts
+1727,Pericytes
+1728,Endothelial Cells
+1729,Basal Keratinocytes
+1730,Suprabasal Keratinocytes
+1731,Fibroblasts
+1732,Basal Keratinocytes
+1733,Fibroblasts
+1734,Basal Keratinocytes
+1735,Endothelial Cells
+1736,Suprabasal Keratinocytes
+1737,Suprabasal Keratinocytes
+1738,Pericytes
+1739,Endothelial Cells
+1740,Basal Keratinocytes
+1741,Basal Keratinocytes
+1742,Pericytes
+1743,Suprabasal Keratinocytes
+1744,Suprabasal Keratinocytes
+1745,Endothelial Cells
+1746,Basal Keratinocytes
+1747,Suprabasal Keratinocytes
+1748,Pericytes
+1749,Basal Keratinocytes
+1750,Basal Keratinocytes
+1751,Basal Keratinocytes
+1752,Pericytes
+1753,Suprabasal Keratinocytes
+1754,Fibroblasts
+1755,Suprabasal Keratinocytes
+1756,Endothelial Cells
+1757,Basal Keratinocytes
+1758,Suprabasal Keratinocytes
+1759,Suprabasal Keratinocytes
+1760,Suprabasal Keratinocytes
+1761,Fibroblasts
+1762,Fibroblasts
+1763,Endothelial Cells
+1764,Suprabasal Keratinocytes
+1765,Suprabasal Keratinocytes
+1766,Basal Keratinocytes
+1767,Suprabasal Keratinocytes
+1768,Suprabasal Keratinocytes
+1769,Fibroblasts
+1770,Suprabasal Keratinocytes
+1771,Fibroblasts
+1772,Suprabasal Keratinocytes
+1773,Endothelial Cells
+1774,Suprabasal Keratinocytes
+1775,Suprabasal Keratinocytes
+1776,Pericytes
+1777,Endothelial Cells
+1778,Fibroblasts
+1779,Endothelial Cells
+1780,Basal Keratinocytes
+1781,Basal Keratinocytes
+1782,Fibroblasts
+1783,Basal Keratinocytes
+1784,Endothelial Cells
+1785,Endothelial Cells
+1786,Suprabasal Keratinocytes
+1787,Fibroblasts
+1788,Macrophages/DC
+1789,Basal Keratinocytes
+1790,Fibroblasts
+1791,Endothelial Cells
+1792,Suprabasal Keratinocytes
+1793,Fibroblasts
+1794,Basal Keratinocytes
+1795,Fibroblasts
+1796,Fibroblasts
+1797,Smooth Muscle
+1798,Suprabasal Keratinocytes
+1799,Macrophages/DC
+1800,Fibroblasts
+1801,Endothelial Cells
+1802,Endothelial Cells
+1803,Basal Keratinocytes
+1804,Endothelial Cells
+1805,Fibroblasts
+1806,Basal Keratinocytes
+1807,Fibroblasts
+1808,Suprabasal Keratinocytes
+1809,Basal Keratinocytes
+1810,Melanocytes
+1811,Pericytes
+1812,Basal Keratinocytes
+1813,Macrophages/DC
+1814,Basal Keratinocytes
+1815,Suprabasal Keratinocytes
+1816,Fibroblasts
+1817,Fibroblasts
+1818,Endothelial Cells
+1819,Smooth Muscle
+1820,Endothelial Cells
+1821,Fibroblasts
+1822,Basal Keratinocytes
+1823,Suprabasal Keratinocytes
+1824,Endothelial Cells
+1825,Suprabasal Keratinocytes
+1826,Basal Keratinocytes
+1827,Fibroblasts
+1828,Endothelial Cells
+1829,Endothelial Cells
+1830,Basal Keratinocytes
+1831,Suprabasal Keratinocytes
+1832,Basal Keratinocytes
+1833,Fibroblasts
+1834,Endothelial Cells
+1835,Melanocytes
+1836,Suprabasal Keratinocytes
+1837,Basal Keratinocytes
+1838,Basal Keratinocytes
+1839,Suprabasal Keratinocytes
+1840,Basal Keratinocytes
+1841,Basal Keratinocytes
+1842,Basal Keratinocytes
+1843,Endothelial Cells
+1844,Pericytes
+1845,Endothelial Cells
+1846,Suprabasal Keratinocytes
+1847,Fibroblasts
+1848,Endothelial Cells
+1849,Basal Keratinocytes
+1850,Basal Keratinocytes
+1851,Endothelial Cells
+1852,Endothelial Cells
+1853,Basal Keratinocytes
+1854,Pericytes
+1855,Suprabasal Keratinocytes
+1856,Smooth Muscle
+1857,Suprabasal Keratinocytes
+1858,Basal Keratinocytes
+1859,Fibroblasts
+1860,Basal Keratinocytes
+1861,Basal Keratinocytes
+1862,Basal Keratinocytes
+1863,Suprabasal Keratinocytes
+1864,Endothelial Cells
+1865,Suprabasal Keratinocytes
+1866,Suprabasal Keratinocytes
+1867,Endothelial Cells
+1868,Suprabasal Keratinocytes
+1869,Suprabasal Keratinocytes
+1870,Basal Keratinocytes
+1871,Basal Keratinocytes
+1872,Fibroblasts
+1873,Smooth Muscle
+1874,Basal Keratinocytes
+1875,Fibroblasts
+1876,Endothelial Cells
+1877,Suprabasal Keratinocytes
+1878,Fibroblasts
+1879,Fibroblasts
+1880,Endothelial Cells
+1881,Pericytes
+1882,Endothelial Cells
+1883,Suprabasal Keratinocytes
+1884,Endothelial Cells
+1885,Endothelial Cells
+1886,Basal Keratinocytes
+1887,Endothelial Cells
+1888,Fibroblasts
+1889,Suprabasal Keratinocytes
+1890,Endothelial Cells
+1891,Basal Keratinocytes
+1892,Basal Keratinocytes
+1893,Endothelial Cells
+1894,Smooth Muscle
+1895,Suprabasal Keratinocytes
+1896,Suprabasal Keratinocytes
+1897,Basal Keratinocytes
+1898,Smooth Muscle
+1899,Macrophages/DC
+1900,Basal Keratinocytes
+1901,Basal Keratinocytes
+1902,Fibroblasts
+1903,Smooth Muscle
+1904,Suprabasal Keratinocytes
+1905,Pericytes
+1906,Suprabasal Keratinocytes
+1907,Pericytes
+1908,Basal Keratinocytes
+1909,Endothelial Cells
+1910,Endothelial Cells
+1911,Pericytes
+1912,Endothelial Cells
+1913,Basal Keratinocytes
+1914,Endothelial Cells
+1915,Suprabasal Keratinocytes
+1916,Basal Keratinocytes
+1917,Pericytes
+1918,Basal Keratinocytes
+1919,Endothelial Cells
+1920,Endothelial Cells
+1921,Basal Keratinocytes
+1922,Fibroblasts
+1923,Endothelial Cells
+1924,Pericytes
+1925,Basal Keratinocytes
+1926,Fibroblasts
+1927,Endothelial Cells
+1928,Pericytes
+1929,Suprabasal Keratinocytes
+1930,Basal Keratinocytes
+1931,Endothelial Cells
+1932,Fibroblasts
+1933,Suprabasal Keratinocytes
+1934,Basal Keratinocytes
+1935,Basal Keratinocytes
+1936,Suprabasal Keratinocytes
+1937,Pericytes
+1938,Pericytes
+1939,Basal Keratinocytes
+1940,Endothelial Cells
+1941,Basal Keratinocytes
+1942,Endothelial Cells
+1943,Pericytes
+1944,Fibroblasts
+1945,Suprabasal Keratinocytes
+1946,Pericytes
+1947,Endothelial Cells
+1948,Suprabasal Keratinocytes
+1949,Suprabasal Keratinocytes
+1950,Suprabasal Keratinocytes
+1951,Suprabasal Keratinocytes
+1952,Suprabasal Keratinocytes
+1953,Macrophages/DC
+1954,Suprabasal Keratinocytes
+1955,Fibroblasts
+1956,Macrophages/DC
+1957,Fibroblasts
+1958,Endothelial Cells
+1959,Suprabasal Keratinocytes
+1960,Fibroblasts
+1961,Suprabasal Keratinocytes
+1962,Basal Keratinocytes
+1963,Smooth Muscle
+1964,Suprabasal Keratinocytes
+1965,Basal Keratinocytes
+1966,Basal Keratinocytes
+1967,Endothelial Cells
+1968,Suprabasal Keratinocytes
+1969,Basal Keratinocytes
+1970,Suprabasal Keratinocytes
+1971,Pericytes
+1972,Smooth Muscle
+1973,Macrophages/DC
+1974,Basal Keratinocytes
+1975,Fibroblasts
+1976,Basal Keratinocytes
+1977,Basal Keratinocytes
+1978,Suprabasal Keratinocytes
+1979,Suprabasal Keratinocytes
+1980,Suprabasal Keratinocytes
+1981,Suprabasal Keratinocytes
+1982,Suprabasal Keratinocytes
+1983,Pericytes
+1984,Endothelial Cells
+1985,Suprabasal Keratinocytes
+1986,Pericytes
+1987,Endothelial Cells
+1988,Basal Keratinocytes
+1989,Suprabasal Keratinocytes
+1990,Suprabasal Keratinocytes
+1991,Basal Keratinocytes
+1992,Suprabasal Keratinocytes
+1993,Macrophages/DC
+1994,Fibroblasts
+1995,Basal Keratinocytes
+1996,Suprabasal Keratinocytes
+1997,Pericytes
+1998,Suprabasal Keratinocytes
+1999,Smooth Muscle
+2000,Suprabasal Keratinocytes
+2001,Basal Keratinocytes
+2002,Fibroblasts
+2003,Suprabasal Keratinocytes
+2004,Basal Keratinocytes
+2005,Suprabasal Keratinocytes
+2006,Suprabasal Keratinocytes
+2007,Fibroblasts
+2008,Basal Keratinocytes
+2009,Basal Keratinocytes
+2010,Endothelial Cells
+2011,Basal Keratinocytes
+2012,Endothelial Cells
+2013,Basal Keratinocytes
+2014,Suprabasal Keratinocytes
+2015,Basal Keratinocytes
+2016,Basal Keratinocytes
+2017,Basal Keratinocytes
+2018,Endothelial Cells
+2019,Pericytes
+2020,Suprabasal Keratinocytes
+2021,Endothelial Cells
+2022,Fibroblasts
+2023,Suprabasal Keratinocytes
+2024,Fibroblasts
+2025,Pericytes
+2026,Suprabasal Keratinocytes
+2027,Basal Keratinocytes
+2028,Fibroblasts
+2029,Macrophages/DC
+2030,Basal Keratinocytes
+2031,Suprabasal Keratinocytes
+2032,Fibroblasts
+2033,Basal Keratinocytes
+2034,Fibroblasts
+2035,Smooth Muscle
+2036,Endothelial Cells
+2037,Pericytes
+2038,Suprabasal Keratinocytes
+2039,Suprabasal Keratinocytes
+2040,Basal Keratinocytes
+2041,Suprabasal Keratinocytes
+2042,Basal Keratinocytes
+2043,Basal Keratinocytes
+2044,Suprabasal Keratinocytes
+2045,Fibroblasts
+2046,Pericytes
+2047,Basal Keratinocytes
+2048,Endothelial Cells
+2049,Suprabasal Keratinocytes
+2050,Suprabasal Keratinocytes
+2051,Basal Keratinocytes
+2052,Suprabasal Keratinocytes
+2053,Suprabasal Keratinocytes
+2054,Pericytes
+2055,Endothelial Cells
+2056,Suprabasal Keratinocytes
+2057,Suprabasal Keratinocytes
+2058,Fibroblasts
+2059,Pericytes
+2060,Suprabasal Keratinocytes
+2061,Basal Keratinocytes
+2062,Endothelial Cells
+2063,Macrophages/DC
+2064,Suprabasal Keratinocytes
+2065,Endothelial Cells
+2066,Fibroblasts
+2067,Suprabasal Keratinocytes
+2068,Smooth Muscle
+2069,Fibroblasts
+2070,Suprabasal Keratinocytes
+2071,Suprabasal Keratinocytes
+2072,Pericytes
+2073,Basal Keratinocytes
+2074,Fibroblasts
+2075,Basal Keratinocytes
+2076,Suprabasal Keratinocytes
+2077,Fibroblasts
+2078,Basal Keratinocytes
+2079,Basal Keratinocytes
+2080,Suprabasal Keratinocytes
+2081,Fibroblasts
+2082,Fibroblasts
+2083,Suprabasal Keratinocytes
+2084,Endothelial Cells
+2085,Suprabasal Keratinocytes
+2086,Basal Keratinocytes
+2087,Pericytes
+2088,Pericytes
+2089,Fibroblasts
+2090,Fibroblasts
+2091,Fibroblasts
+2092,Fibroblasts
+2093,Endothelial Cells
+2094,Suprabasal Keratinocytes
+2095,Suprabasal Keratinocytes
+2096,Basal Keratinocytes
+2097,Fibroblasts
+2098,Pericytes
+2099,Fibroblasts
+2100,Suprabasal Keratinocytes
+2101,Suprabasal Keratinocytes
+2102,Suprabasal Keratinocytes
+2103,Fibroblasts
+2104,Fibroblasts
+2105,Basal Keratinocytes
+2106,Basal Keratinocytes
+2107,Pericytes
+2108,Fibroblasts
+2109,Endothelial Cells
+2110,Endothelial Cells
+2111,Suprabasal Keratinocytes
+2112,Fibroblasts
+2113,Suprabasal Keratinocytes
+2114,Suprabasal Keratinocytes
+2115,Suprabasal Keratinocytes
+2116,Suprabasal Keratinocytes
+2117,Suprabasal Keratinocytes
+2118,Endothelial Cells
+2119,Suprabasal Keratinocytes
+2120,Suprabasal Keratinocytes
+2121,Suprabasal Keratinocytes
+2122,Basal Keratinocytes
+2123,Suprabasal Keratinocytes
+2124,Pericytes
+2125,Basal Keratinocytes
+2126,Pericytes
+2127,Fibroblasts
+2128,Fibroblasts
+2129,Endothelial Cells
+2130,Fibroblasts
+2131,Suprabasal Keratinocytes
+2132,Suprabasal Keratinocytes
+2133,Suprabasal Keratinocytes
+2134,Suprabasal Keratinocytes
+2135,Suprabasal Keratinocytes
+2136,Basal Keratinocytes
+2137,Suprabasal Keratinocytes
+2138,Pericytes
+2139,Endothelial Cells
+2140,Suprabasal Keratinocytes
+2141,Suprabasal Keratinocytes
+2142,Suprabasal Keratinocytes
+2143,Suprabasal Keratinocytes
+2144,Suprabasal Keratinocytes
+2145,Fibroblasts
+2146,Suprabasal Keratinocytes
+2147,Fibroblasts
+2148,Endothelial Cells
+2149,Suprabasal Keratinocytes
+2150,Pericytes
+2151,Fibroblasts
+2152,Endothelial Cells
+2153,Pericytes
+2154,Basal Keratinocytes
+2155,Endothelial Cells
+2156,Pericytes
+2157,Suprabasal Keratinocytes
+2158,Pericytes
+2159,Pericytes
+2160,Pericytes
+2161,Pericytes
+2162,Suprabasal Keratinocytes
+2163,Fibroblasts
+2164,Basal Keratinocytes
+2165,Fibroblasts
+2166,Suprabasal Keratinocytes
+2167,Macrophages/DC
+2168,Pericytes
+2169,Pericytes
+2170,Pericytes
+2171,Pericytes
+2172,Suprabasal Keratinocytes
+2173,Basal Keratinocytes
+2174,Suprabasal Keratinocytes
+2175,Suprabasal Keratinocytes
+2176,Fibroblasts
+2177,Basal Keratinocytes
+2178,Pericytes
+2179,Macrophages/DC
+2180,Suprabasal Keratinocytes
+2181,Basal Keratinocytes
+2182,Suprabasal Keratinocytes
+2183,Pericytes
+2184,Basal Keratinocytes
+2185,Suprabasal Keratinocytes
+2186,Pericytes
+2187,Fibroblasts
+2188,Basal Keratinocytes
+2189,Suprabasal Keratinocytes
+2190,Macrophages/DC
+2191,Suprabasal Keratinocytes
+2192,Basal Keratinocytes
+2193,Fibroblasts
+2194,Pericytes
+2195,Melanocytes
+2196,Suprabasal Keratinocytes
+2197,Fibroblasts
+2198,Endothelial Cells
+2199,Pericytes
+2200,Basal Keratinocytes
+2201,Pericytes
+2202,Pericytes
+2203,Suprabasal Keratinocytes
+2204,Pericytes
+2205,Smooth Muscle
+2206,Suprabasal Keratinocytes
+2207,Endothelial Cells
+2208,Pericytes
+2209,Fibroblasts
+2210,Fibroblasts
+2211,Pericytes
+2212,Smooth Muscle
+2213,Fibroblasts
+2214,Suprabasal Keratinocytes
+2215,Suprabasal Keratinocytes
+2216,Suprabasal Keratinocytes
+2217,Smooth Muscle
+2218,Pericytes
+2219,Fibroblasts
+2220,Suprabasal Keratinocytes
+2221,Basal Keratinocytes
+2222,Endothelial Cells
+2223,Fibroblasts
+2224,Suprabasal Keratinocytes
+2225,Basal Keratinocytes
+2226,Basal Keratinocytes
+2227,Basal Keratinocytes
+2228,Pericytes
+2229,Suprabasal Keratinocytes
+2230,Fibroblasts
+2231,Macrophages/DC
+2232,Macrophages/DC
+2233,Fibroblasts
+2234,Pericytes
+2235,Fibroblasts
+2236,Basal Keratinocytes
+2237,Fibroblasts
+2238,Suprabasal Keratinocytes
+2239,Macrophages/DC
+2240,Suprabasal Keratinocytes
+2241,Suprabasal Keratinocytes
+2242,Endothelial Cells
+2243,Endothelial Cells
+2244,Suprabasal Keratinocytes
+2245,Suprabasal Keratinocytes
+2246,Basal Keratinocytes
+2247,Fibroblasts
+2248,Endothelial Cells
+2249,Pericytes
+2250,Fibroblasts
+2251,Suprabasal Keratinocytes
+2252,Basal Keratinocytes
+2253,Endothelial Cells
+2254,Pericytes
+2255,Basal Keratinocytes
+2256,Basal Keratinocytes
+2257,Macrophages/DC
+2258,Fibroblasts
+2259,Suprabasal Keratinocytes
+2260,Endothelial Cells
+2261,Basal Keratinocytes
+2262,Suprabasal Keratinocytes
+2263,Fibroblasts
+2264,Smooth Muscle
+2265,Pericytes
+2266,Suprabasal Keratinocytes
+2267,Suprabasal Keratinocytes
+2268,Suprabasal Keratinocytes
+2269,Suprabasal Keratinocytes
+2270,Pericytes
+2271,Pericytes
+2272,Suprabasal Keratinocytes
+2273,Fibroblasts
+2274,Fibroblasts
+2275,Suprabasal Keratinocytes
+2276,Suprabasal Keratinocytes
+2277,Basal Keratinocytes
+2278,Fibroblasts
+2279,Basal Keratinocytes
+2280,Pericytes
+2281,Suprabasal Keratinocytes
+2282,Pericytes
+2283,Suprabasal Keratinocytes
+2284,Endothelial Cells
+2285,Suprabasal Keratinocytes
+2286,Fibroblasts
+2287,Smooth Muscle
+2288,Fibroblasts
+2289,Suprabasal Keratinocytes
+2290,Suprabasal Keratinocytes
+2291,Suprabasal Keratinocytes
+2292,Fibroblasts
+2293,Basal Keratinocytes
+2294,Endothelial Cells
+2295,Basal Keratinocytes
+2296,Pericytes
+2297,Pericytes
+2298,Suprabasal Keratinocytes
+2299,Basal Keratinocytes
+2300,Suprabasal Keratinocytes
+2301,Endothelial Cells
+2302,Suprabasal Keratinocytes
+2303,Basal Keratinocytes
+2304,Pericytes
+2305,Fibroblasts
+2306,Basal Keratinocytes
+2307,Endothelial Cells
+2308,Fibroblasts
+2309,Fibroblasts
+2310,Basal Keratinocytes
+2311,Fibroblasts
+2312,Basal Keratinocytes
+2313,Smooth Muscle
+2314,Suprabasal Keratinocytes
+2315,Fibroblasts
+2316,Suprabasal Keratinocytes
+2317,Suprabasal Keratinocytes
+2318,Suprabasal Keratinocytes
+2319,Endothelial Cells
+2320,Fibroblasts
+2321,Suprabasal Keratinocytes
+2322,Pericytes
+2323,Basal Keratinocytes
+2324,Pericytes
+2325,Endothelial Cells
+2326,Suprabasal Keratinocytes
+2327,Smooth Muscle
+2328,Fibroblasts
+2329,Fibroblasts
+2330,Fibroblasts
+2331,Pericytes
+2332,Endothelial Cells
+2333,Suprabasal Keratinocytes
+2334,Macrophages/DC
+2335,Suprabasal Keratinocytes
+2336,Endothelial Cells
+2337,Endothelial Cells
+2338,Suprabasal Keratinocytes
+2339,Macrophages/DC
+2340,Fibroblasts
+2341,Basal Keratinocytes
+2342,Suprabasal Keratinocytes
+2343,Fibroblasts
+2344,Pericytes
+2345,Fibroblasts
+2346,Fibroblasts
+2347,Suprabasal Keratinocytes
+2348,Suprabasal Keratinocytes
+2349,Basal Keratinocytes
+2350,Basal Keratinocytes
+2351,Pericytes
+2352,Pericytes
+2353,Fibroblasts
+2354,Suprabasal Keratinocytes
+2355,Basal Keratinocytes
+2356,Basal Keratinocytes
+2357,Suprabasal Keratinocytes
+2358,Suprabasal Keratinocytes
+2359,Macrophages/DC
+2360,Suprabasal Keratinocytes
+2361,Endothelial Cells
+2362,Basal Keratinocytes
+2363,Fibroblasts
+2364,Pericytes
+2365,Suprabasal Keratinocytes
+2366,Pericytes
+2367,Endothelial Cells
+2368,Macrophages/DC
+2369,Basal Keratinocytes
+2370,Fibroblasts
+2371,Suprabasal Keratinocytes
+2372,Suprabasal Keratinocytes
+2373,Endothelial Cells
+2374,Endothelial Cells
+2375,Basal Keratinocytes
+2376,Suprabasal Keratinocytes
+2377,Basal Keratinocytes
+2378,Fibroblasts
+2379,Endothelial Cells
+2380,Basal Keratinocytes
+2381,Suprabasal Keratinocytes
+2382,Fibroblasts
+2383,Basal Keratinocytes
+2384,Suprabasal Keratinocytes
+2385,Suprabasal Keratinocytes
+2386,Basal Keratinocytes
+2387,Endothelial Cells
+2388,Suprabasal Keratinocytes
+2389,Pericytes
+2390,Suprabasal Keratinocytes
+2391,Suprabasal Keratinocytes
+2392,Macrophages/DC
+2393,Endothelial Cells
+2394,Basal Keratinocytes
+2395,Suprabasal Keratinocytes
+2396,Basal Keratinocytes
+2397,Endothelial Cells
+2398,Pericytes
+2399,Smooth Muscle
+2400,Basal Keratinocytes
+2401,Fibroblasts
+2402,Fibroblasts
+2403,Basal Keratinocytes
+2404,Suprabasal Keratinocytes
+2405,Fibroblasts
+2406,Fibroblasts
+2407,Suprabasal Keratinocytes
+2408,Suprabasal Keratinocytes
+2409,Fibroblasts
+2410,Pericytes
+2411,Fibroblasts
+2412,Endothelial Cells
+2413,Fibroblasts
+2414,Pericytes
+2415,Fibroblasts
+2416,Suprabasal Keratinocytes
+2417,Basal Keratinocytes
+2418,Suprabasal Keratinocytes
+2419,Suprabasal Keratinocytes
+2420,Pericytes
+2421,Suprabasal Keratinocytes
+2422,Suprabasal Keratinocytes
+2423,Suprabasal Keratinocytes
+2424,Fibroblasts
+2425,Endothelial Cells
+2426,Suprabasal Keratinocytes
+2427,Pericytes
+2428,Fibroblasts
+2429,Smooth Muscle
+2430,Basal Keratinocytes
+2431,Basal Keratinocytes
+2432,Pericytes
+2433,Suprabasal Keratinocytes
+2434,Suprabasal Keratinocytes
+2435,Suprabasal Keratinocytes
+2436,Basal Keratinocytes
+2437,Pericytes
+2438,Fibroblasts
+2439,Suprabasal Keratinocytes
+2440,Suprabasal Keratinocytes
+2441,Basal Keratinocytes
+2442,Basal Keratinocytes
+2443,Suprabasal Keratinocytes
+2444,Suprabasal Keratinocytes
+2445,Suprabasal Keratinocytes
+2446,Endothelial Cells
+2447,Suprabasal Keratinocytes
+2448,Suprabasal Keratinocytes
+2449,Suprabasal Keratinocytes
+2450,Endothelial Cells
+2451,Fibroblasts
+2452,Fibroblasts
+2453,Fibroblasts
+2454,Endothelial Cells
+2455,Basal Keratinocytes
+2456,Suprabasal Keratinocytes
+2457,Basal Keratinocytes
+2458,Fibroblasts
+2459,Macrophages/DC
+2460,Fibroblasts
+2461,Basal Keratinocytes
+2462,Basal Keratinocytes
+2463,Endothelial Cells
+2464,Suprabasal Keratinocytes
+2465,Suprabasal Keratinocytes
+2466,Basal Keratinocytes
+2467,Suprabasal Keratinocytes
+2468,Fibroblasts
+2469,Basal Keratinocytes
+2470,Suprabasal Keratinocytes
+2471,Suprabasal Keratinocytes
+2472,Endothelial Cells
+2473,Suprabasal Keratinocytes
+2474,Suprabasal Keratinocytes
+2475,Macrophages/DC
+2476,Smooth Muscle
+2477,Smooth Muscle
+2478,Endothelial Cells
+2479,Pericytes
+2480,Fibroblasts
+2481,Fibroblasts
+2482,Macrophages/DC
+2483,Endothelial Cells
+2484,Suprabasal Keratinocytes
+2485,Suprabasal Keratinocytes
+2486,Fibroblasts
+2487,Fibroblasts
+2488,Endothelial Cells
+2489,Pericytes
+2490,Pericytes
+2491,Basal Keratinocytes
+2492,Suprabasal Keratinocytes
+2493,Fibroblasts
+2494,Suprabasal Keratinocytes
+2495,Fibroblasts
+2496,Basal Keratinocytes
+2497,Suprabasal Keratinocytes
+2498,Suprabasal Keratinocytes
+2499,Fibroblasts
+2500,Endothelial Cells
+2501,Fibroblasts
+2502,Suprabasal Keratinocytes
+2503,Basal Keratinocytes
+2504,Suprabasal Keratinocytes
+2505,Basal Keratinocytes
+2506,Pericytes
+2507,Suprabasal Keratinocytes
+2508,Endothelial Cells
+2509,Endothelial Cells
+2510,Suprabasal Keratinocytes
+2511,Fibroblasts
+2512,Suprabasal Keratinocytes
+2513,Suprabasal Keratinocytes
+2514,Suprabasal Keratinocytes
+2515,Pericytes
+2516,Fibroblasts
+2517,Fibroblasts
+2518,Suprabasal Keratinocytes
+2519,Fibroblasts
+2520,Endothelial Cells
+2521,Suprabasal Keratinocytes
+2522,Basal Keratinocytes
+2523,Suprabasal Keratinocytes
+2524,Endothelial Cells
+2525,Suprabasal Keratinocytes
+2526,Suprabasal Keratinocytes
+2527,Basal Keratinocytes
+2528,Fibroblasts
+2529,Basal Keratinocytes
+2530,Suprabasal Keratinocytes
+2531,Fibroblasts
+2532,Suprabasal Keratinocytes
+2533,Suprabasal Keratinocytes
+2534,Suprabasal Keratinocytes
+2535,Suprabasal Keratinocytes
+2536,Fibroblasts
+2537,Basal Keratinocytes
+2538,Fibroblasts
+2539,Suprabasal Keratinocytes
+2540,Endothelial Cells
+2541,Fibroblasts
+2542,Fibroblasts
+2543,Suprabasal Keratinocytes
+2544,Smooth Muscle
+2545,Basal Keratinocytes
+2546,Basal Keratinocytes
+2547,Endothelial Cells
+2548,Suprabasal Keratinocytes
+2549,Suprabasal Keratinocytes
+2550,Suprabasal Keratinocytes
+2551,Basal Keratinocytes
+2552,Basal Keratinocytes
+2553,Pericytes
+2554,Pericytes
+2555,Basal Keratinocytes
+2556,Pericytes
+2557,Macrophages/DC
+2558,Macrophages/DC
+2559,Suprabasal Keratinocytes
+2560,Endothelial Cells
+2561,Fibroblasts
+2562,Fibroblasts
+2563,Suprabasal Keratinocytes
+2564,Endothelial Cells
+2565,Fibroblasts
+2566,Endothelial Cells
+2567,Basal Keratinocytes
+2568,Suprabasal Keratinocytes
+2569,Pericytes
+2570,Melanocytes
+2571,Fibroblasts
+2572,Endothelial Cells
+2573,Endothelial Cells
+2574,Suprabasal Keratinocytes
+2575,Fibroblasts
+2576,Endothelial Cells
+2577,Fibroblasts
+2578,Suprabasal Keratinocytes
+2579,Suprabasal Keratinocytes
+2580,Suprabasal Keratinocytes
+2581,Suprabasal Keratinocytes
+2582,Endothelial Cells
+2583,Suprabasal Keratinocytes
+2584,Suprabasal Keratinocytes
+2585,Basal Keratinocytes
+2586,Suprabasal Keratinocytes
+2587,Suprabasal Keratinocytes
+2588,Smooth Muscle
+2589,Basal Keratinocytes
+2590,Suprabasal Keratinocytes
+2591,Fibroblasts
+2592,Endothelial Cells
+2593,Endothelial Cells
+2594,Smooth Muscle
+2595,Fibroblasts
+2596,Suprabasal Keratinocytes
+2597,Fibroblasts
+2598,Suprabasal Keratinocytes
+2599,Fibroblasts
+2600,Endothelial Cells
+2601,Basal Keratinocytes
+2602,Basal Keratinocytes
+2603,Suprabasal Keratinocytes
+2604,Fibroblasts
+2605,Fibroblasts
+2606,Fibroblasts
+2607,Basal Keratinocytes
+2608,Basal Keratinocytes
+2609,Fibroblasts
+2610,Suprabasal Keratinocytes
+2611,Basal Keratinocytes
+2612,Pericytes
+2613,Basal Keratinocytes
+2614,Basal Keratinocytes
+2615,Pericytes
+2616,Basal Keratinocytes
+2617,Basal Keratinocytes
+2618,Basal Keratinocytes
+2619,Basal Keratinocytes
+2620,Suprabasal Keratinocytes
+2621,Fibroblasts
+2622,Basal Keratinocytes
+2623,Endothelial Cells
+2624,Suprabasal Keratinocytes
+2625,Suprabasal Keratinocytes
+2626,Pericytes
+2627,Suprabasal Keratinocytes
+2628,Suprabasal Keratinocytes
+2629,Suprabasal Keratinocytes
+2630,Fibroblasts
+2631,Basal Keratinocytes
+2632,Suprabasal Keratinocytes
+2633,Fibroblasts
+2634,Smooth Muscle
+2635,Basal Keratinocytes
+2636,Fibroblasts
+2637,Fibroblasts
+2638,Pericytes
+2639,Endothelial Cells
+2640,Basal Keratinocytes
+2641,Endothelial Cells
+2642,Suprabasal Keratinocytes
+2643,Pericytes
+2644,Fibroblasts
+2645,Basal Keratinocytes
+2646,Macrophages/DC
+2647,Suprabasal Keratinocytes
+2648,Pericytes
+2649,Basal Keratinocytes
+2650,Macrophages/DC
+2651,Endothelial Cells
+2652,Suprabasal Keratinocytes
+2653,Basal Keratinocytes
+2654,Endothelial Cells
+2655,Suprabasal Keratinocytes
+2656,Suprabasal Keratinocytes
+2657,Endothelial Cells
+2658,Fibroblasts
+2659,Basal Keratinocytes
+2660,Suprabasal Keratinocytes
+2661,Suprabasal Keratinocytes
+2662,Fibroblasts
+2663,Smooth Muscle
+2664,Endothelial Cells
+2665,Fibroblasts
+2666,Fibroblasts
+2667,Pericytes
+2668,Fibroblasts
+2669,Fibroblasts
+2670,Basal Keratinocytes
+2671,Fibroblasts
+2672,Basal Keratinocytes
+2673,Endothelial Cells
+2674,Suprabasal Keratinocytes
+2675,Fibroblasts
+2676,Fibroblasts
+2677,Basal Keratinocytes
+2678,Pericytes
+2679,Suprabasal Keratinocytes
+2680,Suprabasal Keratinocytes
+2681,Basal Keratinocytes
+2682,Suprabasal Keratinocytes
+2683,Endothelial Cells
+2684,Fibroblasts
+2685,Pericytes
+2686,Suprabasal Keratinocytes
+2687,Suprabasal Keratinocytes
+2688,Suprabasal Keratinocytes
+2689,Suprabasal Keratinocytes
+2690,Pericytes
+2691,Smooth Muscle
+2692,Fibroblasts
+2693,Endothelial Cells
+2694,Fibroblasts
+2695,Suprabasal Keratinocytes
+2696,Basal Keratinocytes
+2697,Fibroblasts
+2698,Endothelial Cells
+2699,Suprabasal Keratinocytes
+2700,Pericytes
+2701,Suprabasal Keratinocytes
+2702,Suprabasal Keratinocytes
+2703,Fibroblasts
+2704,Fibroblasts
+2705,Suprabasal Keratinocytes
+2706,Suprabasal Keratinocytes
+2707,Suprabasal Keratinocytes
+2708,Fibroblasts
+2709,Basal Keratinocytes
+2710,Suprabasal Keratinocytes
+2711,Suprabasal Keratinocytes
+2712,Suprabasal Keratinocytes
+2713,Pericytes
+2714,Basal Keratinocytes
+2715,Fibroblasts
+2716,Basal Keratinocytes
+2717,Basal Keratinocytes
+2718,Macrophages/DC
+2719,Endothelial Cells
+2720,Fibroblasts
+2721,Basal Keratinocytes
+2722,Fibroblasts
+2723,Suprabasal Keratinocytes
+2724,Pericytes
+2725,Basal Keratinocytes
+2726,Suprabasal Keratinocytes
+2727,Fibroblasts
+2728,Smooth Muscle
+2729,Suprabasal Keratinocytes
+2730,Fibroblasts
+2731,Suprabasal Keratinocytes
+2732,Basal Keratinocytes
+2733,Pericytes
+2734,Endothelial Cells
+2735,Suprabasal Keratinocytes
+2736,Basal Keratinocytes
+2737,Suprabasal Keratinocytes
+2738,Pericytes
+2739,Endothelial Cells
+2740,Suprabasal Keratinocytes
+2741,Suprabasal Keratinocytes
+2742,Basal Keratinocytes
+2743,Endothelial Cells
+2744,Suprabasal Keratinocytes
+2745,Basal Keratinocytes
+2746,Suprabasal Keratinocytes
+2747,Fibroblasts
+2748,Basal Keratinocytes
+2749,Fibroblasts
+2750,Pericytes
+2751,Smooth Muscle
+2752,Suprabasal Keratinocytes
+2753,Suprabasal Keratinocytes
+2754,Pericytes
+2755,Pericytes
+2756,Endothelial Cells
+2757,Smooth Muscle
+2758,Basal Keratinocytes
+2759,Basal Keratinocytes
+2760,Smooth Muscle
+2761,Fibroblasts
+2762,Pericytes
+2763,Smooth Muscle
+2764,Suprabasal Keratinocytes
+2765,Fibroblasts
+2766,Endothelial Cells
+2767,Endothelial Cells
+2768,Macrophages/DC
+2769,Smooth Muscle
+2770,Endothelial Cells
+2771,Pericytes
+2772,Fibroblasts
+2773,Fibroblasts
+2774,Basal Keratinocytes
+2775,Smooth Muscle
+2776,Suprabasal Keratinocytes
+2777,Smooth Muscle
+2778,Suprabasal Keratinocytes
+2779,Suprabasal Keratinocytes
+2780,Macrophages/DC
+2781,Endothelial Cells
+2782,Endothelial Cells
+2783,Basal Keratinocytes
+2784,Suprabasal Keratinocytes
+2785,Macrophages/DC
+2786,Suprabasal Keratinocytes
+2787,Suprabasal Keratinocytes
+2788,Suprabasal Keratinocytes
+2789,Basal Keratinocytes
+2790,Basal Keratinocytes
+2791,Suprabasal Keratinocytes
+2792,Pericytes
+2793,Suprabasal Keratinocytes
+2794,Pericytes
+2795,Fibroblasts
+2796,Basal Keratinocytes
+2797,Suprabasal Keratinocytes
+2798,Endothelial Cells
+2799,Pericytes
+2800,Suprabasal Keratinocytes
+2801,Fibroblasts
+2802,Pericytes
+2803,Basal Keratinocytes
+2804,Suprabasal Keratinocytes
+2805,Suprabasal Keratinocytes
+2806,Fibroblasts
+2807,Endothelial Cells
+2808,Smooth Muscle
+2809,Basal Keratinocytes
+2810,Suprabasal Keratinocytes
+2811,Endothelial Cells
+2812,Fibroblasts
+2813,Suprabasal Keratinocytes
+2814,Macrophages/DC
+2815,Endothelial Cells
+2816,Pericytes
+2817,Pericytes
+2818,Fibroblasts
+2819,Basal Keratinocytes
+2820,Basal Keratinocytes
+2821,Pericytes
+2822,Fibroblasts
+2823,Pericytes
+2824,Suprabasal Keratinocytes
+2825,Fibroblasts
+2826,Suprabasal Keratinocytes
+2827,Basal Keratinocytes
+2828,Pericytes
+2829,Pericytes
+2830,Smooth Muscle
+2831,Basal Keratinocytes
+2832,Suprabasal Keratinocytes
+2833,Pericytes
+2834,Suprabasal Keratinocytes
+2835,Endothelial Cells
+2836,Suprabasal Keratinocytes
+2837,Fibroblasts
+2838,Suprabasal Keratinocytes
+2839,Suprabasal Keratinocytes
+2840,Pericytes
+2841,Basal Keratinocytes
+2842,Endothelial Cells
+2843,Suprabasal Keratinocytes
+2844,Suprabasal Keratinocytes
+2845,Pericytes
+2846,Pericytes
+2847,Fibroblasts
+2848,Suprabasal Keratinocytes
+2849,Endothelial Cells
+2850,Fibroblasts
+2851,Fibroblasts
+2852,Basal Keratinocytes
+2853,Fibroblasts
+2854,Suprabasal Keratinocytes
+2855,Endothelial Cells
+2856,Basal Keratinocytes
+2857,Fibroblasts
+2858,Endothelial Cells
+2859,Pericytes
+2860,Basal Keratinocytes
+2861,Pericytes
+2862,Basal Keratinocytes
+2863,Suprabasal Keratinocytes
+2864,Suprabasal Keratinocytes
+2865,Basal Keratinocytes
+2866,Pericytes
+2867,Endothelial Cells
+2868,Fibroblasts
+2869,Basal Keratinocytes
+2870,Pericytes
+2871,Basal Keratinocytes
+2872,Fibroblasts
+2873,Suprabasal Keratinocytes
+2874,Suprabasal Keratinocytes
+2875,Basal Keratinocytes
+2876,Basal Keratinocytes
+2877,Pericytes
+2878,Basal Keratinocytes
+2879,Suprabasal Keratinocytes
+2880,Macrophages/DC
+2881,Pericytes
+2882,Basal Keratinocytes
+2883,Pericytes
+2884,Suprabasal Keratinocytes
+2885,Endothelial Cells
+2886,Endothelial Cells
+2887,Fibroblasts
+2888,Suprabasal Keratinocytes
+2889,Pericytes
+2890,Fibroblasts
+2891,Pericytes
+2892,Pericytes
+2893,Suprabasal Keratinocytes
+2894,Fibroblasts
+2895,Smooth Muscle
+2896,Smooth Muscle
+2897,Smooth Muscle
+2898,Suprabasal Keratinocytes
+2899,Fibroblasts
+2900,Fibroblasts
+2901,Endothelial Cells
+2902,Suprabasal Keratinocytes
+2903,Pericytes
+2904,Fibroblasts
+2905,Suprabasal Keratinocytes
+2906,Suprabasal Keratinocytes
+2907,Pericytes
+2908,Fibroblasts
+2909,Suprabasal Keratinocytes
+2910,Suprabasal Keratinocytes
+2911,Basal Keratinocytes
+2912,Pericytes
+2913,Fibroblasts
+2914,Basal Keratinocytes
+2915,Suprabasal Keratinocytes
+2916,Fibroblasts
+2917,Suprabasal Keratinocytes
+2918,Suprabasal Keratinocytes
+2919,Pericytes
+2920,Pericytes
+2921,Fibroblasts
+2922,Fibroblasts
+2923,Fibroblasts
+2924,Basal Keratinocytes
+2925,Endothelial Cells
+2926,Pericytes
+2927,Fibroblasts
+2928,Endothelial Cells
+2929,Pericytes
+2930,Suprabasal Keratinocytes
+2931,Fibroblasts
+2932,Basal Keratinocytes
+2933,Endothelial Cells
+2934,Suprabasal Keratinocytes
+2935,Suprabasal Keratinocytes
+2936,Suprabasal Keratinocytes
+2937,Suprabasal Keratinocytes
+2938,Suprabasal Keratinocytes
+2939,Suprabasal Keratinocytes
+2940,Pericytes
+2941,Endothelial Cells
+2942,Fibroblasts
+2943,Suprabasal Keratinocytes
+2944,Endothelial Cells
+2945,Pericytes
+2946,Suprabasal Keratinocytes
+2947,Pericytes
+2948,Fibroblasts
+2949,Suprabasal Keratinocytes
+2950,Pericytes
+2951,Suprabasal Keratinocytes
+2952,Suprabasal Keratinocytes
+2953,Suprabasal Keratinocytes
+2954,Suprabasal Keratinocytes
+2955,Suprabasal Keratinocytes
+2956,Suprabasal Keratinocytes
+2957,Pericytes
+2958,Endothelial Cells
+2959,Suprabasal Keratinocytes
+2960,Suprabasal Keratinocytes
+2961,Suprabasal Keratinocytes
+2962,Pericytes
+2963,Basal Keratinocytes
+2964,Fibroblasts
+2965,Pericytes
+2966,Suprabasal Keratinocytes
+2967,Fibroblasts
+2968,Basal Keratinocytes
+2969,Suprabasal Keratinocytes
+2970,Suprabasal Keratinocytes
+2971,Basal Keratinocytes
+2972,Pericytes
+2973,Basal Keratinocytes
+2974,Suprabasal Keratinocytes
+2975,Suprabasal Keratinocytes
+2976,Fibroblasts
+2977,Suprabasal Keratinocytes
+2978,Fibroblasts
+2979,Fibroblasts
+2980,Fibroblasts
+2981,Suprabasal Keratinocytes
+2982,Suprabasal Keratinocytes
+2983,Basal Keratinocytes
+2984,Endothelial Cells
+2985,Pericytes
+2986,Macrophages/DC
+2987,Endothelial Cells
+2988,Macrophages/DC
+2989,Suprabasal Keratinocytes
+2990,Suprabasal Keratinocytes
+2991,Pericytes
+2992,Basal Keratinocytes
+2993,Pericytes
+2994,Suprabasal Keratinocytes
+2995,Basal Keratinocytes
+2996,Endothelial Cells
+2997,Suprabasal Keratinocytes
+2998,Suprabasal Keratinocytes
+2999,Fibroblasts
+3000,Smooth Muscle
+3001,Fibroblasts
+3002,Basal Keratinocytes
+3003,Pericytes
+3004,Suprabasal Keratinocytes
+3005,Smooth Muscle
+3006,Endothelial Cells
+3007,Suprabasal Keratinocytes
+3008,Suprabasal Keratinocytes
+3009,Basal Keratinocytes
+3010,Suprabasal Keratinocytes
+3011,Basal Keratinocytes
+3012,Pericytes
+3013,Fibroblasts
+3014,Endothelial Cells
+3015,Basal Keratinocytes
+3016,Suprabasal Keratinocytes
+3017,Suprabasal Keratinocytes
+3018,Suprabasal Keratinocytes
+3019,Pericytes
+3020,Basal Keratinocytes
+3021,Basal Keratinocytes
+3022,Pericytes
+3023,Suprabasal Keratinocytes
+3024,Suprabasal Keratinocytes
+3025,Fibroblasts
+3026,Fibroblasts
+3027,Pericytes
+3028,Endothelial Cells
+3029,Fibroblasts
+3030,Smooth Muscle
+3031,Suprabasal Keratinocytes
+3032,Fibroblasts
+3033,Suprabasal Keratinocytes
+3034,Smooth Muscle
+3035,Basal Keratinocytes
+3036,Suprabasal Keratinocytes
+3037,Endothelial Cells
+3038,Smooth Muscle
+3039,Fibroblasts
+3040,Suprabasal Keratinocytes
+3041,Fibroblasts
+3042,Fibroblasts
+3043,Endothelial Cells
+3044,Endothelial Cells
+3045,Suprabasal Keratinocytes
+3046,Pericytes
+3047,Suprabasal Keratinocytes
+3048,Smooth Muscle
+3049,Smooth Muscle
+3050,Suprabasal Keratinocytes
+3051,Basal Keratinocytes
+3052,Fibroblasts
+3053,Suprabasal Keratinocytes
+3054,Fibroblasts
+3055,Fibroblasts
+3056,Basal Keratinocytes
+3057,Basal Keratinocytes
+3058,Suprabasal Keratinocytes
+3059,Basal Keratinocytes
+3060,Suprabasal Keratinocytes
+3061,Pericytes
+3062,Fibroblasts
+3063,Fibroblasts
+3064,Basal Keratinocytes
+3065,Basal Keratinocytes
+3066,Endothelial Cells
+3067,Fibroblasts
+3068,Basal Keratinocytes
+3069,Suprabasal Keratinocytes
+3070,Suprabasal Keratinocytes
+3071,Basal Keratinocytes
+3072,Basal Keratinocytes
+3073,Pericytes
+3074,Suprabasal Keratinocytes
+3075,Endothelial Cells
+3076,Smooth Muscle
