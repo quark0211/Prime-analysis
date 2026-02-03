@@ -10,3 +10,6 @@
 
 # Large analysis output (do not track)
 dataset/analysis/brca_posterior.csv
+
+# Do not track parameter outputs
+run_prime/brca_param.csv
