@@ -38,7 +38,7 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
      - performs parameter-space marker analysis and visualizes results (including marker volcano plots).
 
 4. **Dependency Prime.jl** is required to execute the notebooks.
-   - Install PRIME’s Julia package directly from GitHub：https://github.com/Li-shiyue/Prime.jl or https://github.com/quark0211/Prime.jl
+   - Install PRIME’s Julia package directly from GitHub: https://github.com/quark0211/Prime.jl
    - The notebooks in `run_prime/` assume the above installation is available in the Julia environment used by Jupyter.
 
 ---
