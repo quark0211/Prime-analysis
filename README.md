@@ -12,6 +12,7 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
    - **synthetic/**: simulation datasets for **Fig. 2**. These datasets are used to evaluate performance and parameter recovery under controlled conditions.
      - **5-cluster setting**: includes files for `splice`, `unsplice`, `beta`, `celltype`, and ground-truth parameters `theta`.
      - **10-cluster setting**: includes files for `splice`, `unsplice`, `beta`, `celltype`, and ground-truth parameters `theta`.
+     - **`dygen_synthetic.R`** and **`sergio_synthetic.py`** provide the scripts used to generate the GRN-based synthetic datasets with dyngen and SERGIO, respectively.  
    - **real_data/**: real datasets for **Fig. 3**. This folder contains files associated with five datasets:`cl3`, `cl5`, `Mopsc`, `humanskin`, and `mouselung`. For each dataset, we provide two types of inputs:
       - **Unfiltered `.loom` files** (`cl3_1137all.loom`, `cl5_1193all.loom`, `Human_skin_all.loom`, `mouse_all.loom`, `allen_b08_1948all.loom`):  These contain the complete spliced and unspliced count matrices and are used to estimate the cell-volume factor.
       - **HVG-filtered `.csv` count matrices**:  
@@ -32,7 +33,7 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
    - **Mopsc.ipynb**: runs `prime_cluster` on **Mopsc** and reports (**ARI**, **NMI**).
    - **humanskin.ipynb**: runs `prime_cluster` on **humanskin** and reports (**ARI**, **NMI**).
    - **mouselung.ipynb**: runs `prime_cluster` on **mouselung** and reports (**ARI**, **NMI**).
-   - **brca.ipynb**: reproduces the BRCA analysis workflow.
+   - - **brca.ipynb**: reproduces the complete BRCA analysis workflow, with detailed annotations explaining data preparation, parameter settings, model execution, downstream analysis, and result visualization for reproducible use.
      - runs `prime_cluster` for clustering and compares discovered clusters against literature-reported markers;
      - runs `prime_infer_to_csv` for genome-wide Bayesian parameter inference;
      - performs parameter-space marker analysis and visualizes results (including marker volcano plots).
