@@ -33,7 +33,7 @@ In multimodal single-cell sequencing, cell-state heterogeneity is reflected not 
    - **Mopsc.ipynb**: runs `prime_cluster` on **Mopsc** and reports (**ARI**, **NMI**).
    - **humanskin.ipynb**: runs `prime_cluster` on **humanskin** and reports (**ARI**, **NMI**).
    - **mouselung.ipynb**: runs `prime_cluster` on **mouselung** and reports (**ARI**, **NMI**).
-   - - **brca.ipynb**: reproduces the complete BRCA analysis workflow, with detailed annotations explaining data preparation, parameter settings, model execution, downstream analysis, and result visualization for reproducible use.
+   - **brca.ipynb**: reproduces the complete BRCA analysis workflow, with detailed annotations explaining data preparation, parameter settings, model execution, downstream analysis, and result visualization for reproducible use.
      - runs `prime_cluster` for clustering and compares discovered clusters against literature-reported markers;
      - runs `prime_infer_to_csv` for genome-wide Bayesian parameter inference;
      - performs parameter-space marker analysis and visualizes results (including marker volcano plots).
